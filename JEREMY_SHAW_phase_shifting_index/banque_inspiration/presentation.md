@@ -29,7 +29,7 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 Phase Shifting Index [Index d’états de transition] de Jeremy shaw
 
 
-
+![video](IMG_0221.mov)
 
 
 
