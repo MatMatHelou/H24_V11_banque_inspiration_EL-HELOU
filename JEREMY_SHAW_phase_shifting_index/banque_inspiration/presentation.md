@@ -28,9 +28,29 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 # Titre de l'oeuvre
 Phase Shifting Index [Index d’états de transition] de Jeremy shaw
 
+# Mise en espace
+![photo](IMG_0211.png)
 
 ![video](IMG_0221.mov)
 
 
+# Composantes et techniques
 
-L'exposition Jeremy Shaw est une exposition à proposde la treanscendane spirituelle comme si c'était dans le futur, Le createur de l'oeuvre est Jeremy Shaw. J'ai bien aimer l'experianance de l'exposition Jeremy Saw parce que c'etait omplet, bien travaillé et facile a prendre des notes. C'est comme si on m'a fait vivre l'experiance,relaxante.
+
+
+# Éléments nécessaires à la mise en exposition
+
+
+
+# Expérience vécue
+L'exposition Jeremy Shaw est une exposition à propos de la transcendance spirituelle comme si c'était dans le futur. Le createur de l'oeuvre est Jeremy Shaw. J'ai bien aimé l'experience de l'exposition parce que c'était complet, bien travaillé et facile à prendre des notes. C'est comme si on m'a fait vivre l'expérience relaxante.
+
+
+# ❤️ Ce qui m'a plu
+
+
+# 🤔 Aspect que je souhaite pas retenir pour mes propres créations ou que je ferez autrement et justifications
+
+
+
+
