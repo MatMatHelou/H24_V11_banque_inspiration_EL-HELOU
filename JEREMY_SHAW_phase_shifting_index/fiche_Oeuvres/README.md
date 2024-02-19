@@ -19,7 +19,8 @@ Vaste installation vidéo immersive à sept canaux
 
 # Titre de l'oeuvre
 Phase Shifting Index [Index d’états de transition]
-![photo](Medias/6_ensemble.jpg)
+
+![photo](Medias/6_ensemble.jpeg)
 
 
 
