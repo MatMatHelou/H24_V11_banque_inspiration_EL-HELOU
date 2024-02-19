@@ -21,6 +21,8 @@ Vaste installation vidéo immersive à sept canaux
 Phase Shifting Index [Index d’états de transition]
 
 
+
+
 # Nom de l'artiste
 JEREMY SHAW
 
@@ -52,10 +54,6 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 # Mise en espace
 ![photo](Medias/3_Croquis.png)
 
-↓ cliquez pour visonner video youtube ↓
-
-[![video](https://img.youtube.com/vi/Sk9EG3TkOAA/0.jpg)](https://www.youtube.com/watch?v=Sk9EG3TkOAA)
-
 
 
 # Composantes et techniques
@@ -65,6 +63,11 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 - Rétro vintage année 1980, musiques sans paroles (whites noise)
 - Flash: changement musique par rapport au flash des écrans, très calme (stroboscopique)
 - Mouvements de types rituels et cathartiques
+
+↓ cliquez pour visonner video youtube ↓
+
+[![video](https://img.youtube.com/vi/Sk9EG3TkOAA/0.jpg)](https://www.youtube.com/watch?v=Sk9EG3TkOAA)
+
 
 
 # Éléments nécessaires à la mise en exposition
@@ -96,5 +99,6 @@ L'exposition Jeremy Shaw est une exposition à propos de la transcendance spirit
 
 [![video](https://img.youtube.com/vi/gC9Gl4DL58Y/0.jpg)](https://www.youtube.com/watch?v=gC9Gl4DL58Y)
 
+
 # 🤔 Aspect que je souhaite pas retenir pour mes propres créations ou que je ferez autrement et justifications
-- 
+- Certaines scènes sensuelles n'avaient pas vraiment leur place
