@@ -44,11 +44,18 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 - 7 écrans (6 et un qui fonctionne pas)
 - Projections sur écrans
 
+↓ cliquez pour visonner video youtube ↓
+
+[![video](https://img.youtube.com/vi/Ic0WBa8TNrA/0.jpg)](https://www.youtube.com/watch?v=Ic0WBa8TNrA)
 
 
 # Mise en espace
 ![photo](Medias/3_Croquis.png)
-[![video](http://img.youtube.com/vi/ Sk9EG3TkOAA/0.jpg)](https://www.youtube.com/watch?v=Sk9EG3TkOAA)
+
+↓ cliquez pour visonner video youtube ↓
+
+[![video](https://img.youtube.com/vi/Sk9EG3TkOAA/0.jpg)](https://www.youtube.com/watch?v=Sk9EG3TkOAA)
+
 
 
 # Composantes et techniques
@@ -75,6 +82,9 @@ L'exposition Jeremy Shaw est une exposition à propos de la transcendance spirit
 - Faire vivre les spectateurs par c’est corégraphies et en les faisant s’asseoir
 ![photo](Medias/5_danse.jpg)
 
+↓ cliquez pour visonner video youtube ↓
+
+[![video](https://img.youtube.com/vi/-gl8qSCdCBg/0.jpg)](https://www.youtube.com/watch?v=-gl8qSCdCBg)
 
 # ❤️ Ce qui m'a plu
 - Danse, relaxante, avec émotions, un peu agressivité
@@ -82,6 +92,9 @@ L'exposition Jeremy Shaw est une exposition à propos de la transcendance spirit
 - Méditations, prendre ça relax, un genre de yoga, connection spirituelle
 - Révélation du futur, trouver les moyens par la méditation
 
+↓ cliquez pour visonner video youtube ↓
+
+[![video](https://img.youtube.com/vi/gC9Gl4DL58Y/0.jpg)](https://www.youtube.com/watch?v=gC9Gl4DL58Y)
 
 # 🤔 Aspect que je souhaite pas retenir pour mes propres créations ou que je ferez autrement et justifications
 - 
