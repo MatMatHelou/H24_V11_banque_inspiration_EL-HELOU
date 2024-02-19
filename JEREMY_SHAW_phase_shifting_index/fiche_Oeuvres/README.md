@@ -40,6 +40,8 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 - Émergence de nouvelles réalités déconcertantes
 - Images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90 
 
+![photo](Medias/7_vues.jpg)
+
 
 # Type d'installation
 - Installation sur des railles fixes
