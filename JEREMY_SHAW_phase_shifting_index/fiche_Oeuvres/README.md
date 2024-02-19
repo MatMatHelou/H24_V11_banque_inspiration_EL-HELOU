@@ -47,7 +47,7 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 
 
 # Mise en espace
-![photo](IMG_0211.png)
+![photo](Medias/3_Croquis.png)
 ![video](IMG_0221.mov)
 
 
