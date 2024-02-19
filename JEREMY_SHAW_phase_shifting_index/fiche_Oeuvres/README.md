@@ -5,7 +5,7 @@ PHASE SHIFTING INDEX / JEREMY SHAW
 
 # Lieu de mise en exposition
 PRÉSENTÉ PAR LE MUSÉE D'ART CONTEMPORAIN DE MONTRÉAL À LA FONDERIE DARLING
-![photo](IMG_0247.jpg)
+![photo](Medias/2_entree.jpg)
 
 
 # Type d'exposition
