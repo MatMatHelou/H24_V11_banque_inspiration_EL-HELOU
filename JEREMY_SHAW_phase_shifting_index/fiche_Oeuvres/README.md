@@ -1,6 +1,6 @@
 # Nom de l'exposition
 PHASE SHIFTING INDEX / JEREMY SHAW
-![photo](1_Nom.jpg)
+![photo](Medias/1_Nom.jpg)
 
 
 # Lieu de mise en exposition
