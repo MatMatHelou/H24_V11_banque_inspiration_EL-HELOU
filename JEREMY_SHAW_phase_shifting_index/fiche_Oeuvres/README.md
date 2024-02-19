@@ -61,7 +61,7 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 
 
 # Éléments nécessaires à la mise en exposition
-![photo](IMG_0236.jpg)
+![photo](Medias/4_danse.jpg)
 - Projections liées, même chorégraphie
 - Chorégraphies filmées dans le passé
 - Science fiction narration comme si c’était dans le futur
