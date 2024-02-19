@@ -73,7 +73,7 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 # Expérience vécue
 L'exposition Jeremy Shaw est une exposition à propos de la transcendance spirituelle comme si c'était dans le futur. Le createur de l'oeuvre est Jeremy Shaw. J'ai bien aimé l'experience de l'exposition parce que c'était complet, bien travaillé et facile à prendre des notes. C'est comme si on m'a fait vivre l'expérience relaxante.
 - Faire vivre les spectateurs par c’est corégraphies et en les faisant s’asseoir
-![photo](IMG_0238.jpg)
+![photo](Medias/5_danse.jpg)
 
 
 # ❤️ Ce qui m'a plu
