@@ -1,6 +1,7 @@
 # Nom de l'exposition
 PHASE SHIFTING INDEX / JEREMY SHAW
 ![photo](Medias/1_Nom.jpg)
+
 Photo prise par Mateo El-Helou durant l'expo
 
 
@@ -87,6 +88,7 @@ Vidéo prise par Mateo El-Helou durant l'expo
 - Dispositions pour éviter les saleté de l'hivers (couvre-pieds)
   
 ![photo](Medias/9_elements.jpeg)
+
 Photo de https://flash---art.com/article/jeremy-shaw-phase-shifting-index-centre-pompidou-paris/
 
 
