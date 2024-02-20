@@ -9,7 +9,7 @@ PRÉSENTÉ PAR LE MUSÉE D'ART CONTEMPORAIN DE MONTRÉAL À LA FONDERIE DARLING
 
 
 # Type d'exposition
-Temporaire, intérieure, multimédias
+Temporaire, intérieure, multimédia
 Vaste installation vidéo immersive à sept canaux
 
 
@@ -46,7 +46,7 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 # Type d'installation
 - Installation sur des railles fixes
 - Un tableau par écran
-- 7 écrans (6 et un qui fonctionne pas)
+- 7 écrans (6 et un qui fonctionnait pas)
 - Projections sur écrans
 
 ↓ cliquez pour visonner video youtube ↓
@@ -55,18 +55,19 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 
 
 # Mise en espace
+- Bancs pour s'asseoir et contempler les écrans
+- Musiques et sons à volume élevé
+- Espaces sombres éclairés uniquement par les écrans
 ![photo](Medias/3_Croquis.png)
 
 
 
 # Composantes et techniques
-- Thèmes: spirituel, danses, méditations
-- Changement de plan sur écrans, effets pixels
-- Sons: (whoosh) genre de rave mais relaxante
-- Rétro vintage année 1980, musiques sans paroles (whites noise)
-- Flash: changement musique par rapport au flash des écrans, très calme (stroboscopique)
-- Mouvements de types rituels et cathartiques
-
+- 7 écrans larges
+- Projecteurs et ordinateurs connectés
+- Système sonore
+- Disposition des bancs couverts de tapis choisis par l'artiste dans toute la salle
+  
 ↓ cliquez pour visonner video youtube ↓
 
 [![video](https://img.youtube.com/vi/Sk9EG3TkOAA/0.jpg)](https://www.youtube.com/watch?v=Sk9EG3TkOAA)
@@ -74,28 +75,43 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 
 
 # Éléments nécessaires à la mise en exposition
+- Structure métallique solide pour tenirles écrans
+- Projecteurs et spots lumineux fixés au plafond
+- Cablages bien couverts
+- Dispositions pour éviter les saleté de l'hivers (couvre-pieds)
+  
 ![photo](Medias/5_danse.jpg)
-- Projections liées, même chorégraphie
-- Chorégraphies filmées dans le passé
-- Science fiction narration comme si c’était dans le futur
-- Exécuté dans les séquences diffusées simultanément sur des écrans indépendants
-- Changement de la musique sur effet pixels - effet psychédélique
-- Recherche d’une trans spirituelle (transcendance)
+
 
 ![photo](Medias/8_elements.jpg)
 
 
 # Expérience vécue
-L'exposition Jeremy Shaw est une exposition à propos de la transcendance spirituelle comme si c'était dans le futur. Le createur de l'oeuvre est Jeremy Shaw. J'ai bien aimé l'experience de l'exposition parce que c'était complet, bien travaillé et facile à prendre des notes. C'est comme si on m'a fait vivre l'expérience relaxante.
-- Faire vivre les spectateurs par c’est corégraphies et en les faisant s’asseoir
+L'exposition de Jeremy Shaw est une experience de transcendance spirituelle, comme si on voyagais dans le futur. Le createur de l'oeuvre a fait un travail immersif complet au niveau du son, du viuel et de l'émotion. 
+
+- Vivre l'expérience relaxante 
+- Observer des chorégraphies parfois bizarres
+- Thèmes: spiritualité, danses, méditations
+- Changement de plan sur écrans, effets pixels
+- Sons: (whoosh) genre rave mais relaxante
+- Rétro vintage année 1980, musiques sans paroles (white noise)
+- Flash: changement musique par rapport au flash des écrans, parfois calme et parfois stroboscopique
+- Mouvements de types rituels
+- Science fiction narration comme si c’était dans le futur
+- Exécuté dans les séquences diffusées simultanément sur des écrans indépendants
+- Effet psychédélique
+- Recherche d’une trans spirituelle (transcendance)
+
 ![photo](Medias/4_danse.jpg)
 
 ↓ cliquez pour visonner video youtube ↓
 
 [![video](https://img.youtube.com/vi/-gl8qSCdCBg/0.jpg)](https://www.youtube.com/watch?v=-gl8qSCdCBg)
 
+
+
 # ❤️ Ce qui m'a plu
-- Danse, relaxante, avec émotions, un peu agressivité
+- Danses relaxantes, émotions douces mélangé avec une certaine agressivité
 - Technique d'écrans accrochés par des railles
 - Méditations, prendre ça relax, un genre de yoga, connection spirituelle
 - Révélation du futur, trouver les moyens par la méditation
