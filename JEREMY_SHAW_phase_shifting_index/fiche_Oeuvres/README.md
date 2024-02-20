@@ -1,11 +1,13 @@
 # Nom de l'exposition
 PHASE SHIFTING INDEX / JEREMY SHAW
 ![photo](Medias/1_Nom.jpg)
+Photo prise par Mateo El-Helou durant l'expo
 
 
 # Lieu de mise en exposition
 PRÉSENTÉ PAR LE MUSÉE D'ART CONTEMPORAIN DE MONTRÉAL À LA FONDERIE DARLING
 ![photo](Medias/2_entree.jpg)
+Photo prise par Mateo El-Helou durant l'expo
 
 
 # Type d'exposition
@@ -21,7 +23,7 @@ Vaste installation vidéo immersive à sept canaux
 Phase Shifting Index [Index d’états de transition]
 
 ![photo](Medias/6_ensemble.jpeg)
-
+photo de https://www.frieze.com/article/jeremy-shaws-exit-strategy-technology-driven-world
 
 
 # Nom de l'artiste
@@ -33,6 +35,7 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 
 
 # Description de l'oeuvre
+(inspiré du site web de l'expo)
 - Vaste installation vidéo immersive à sept canaux
 - Type rêverie parascientifique exaltante
 - Ressemble à une étude anthropologique d’un futur lointain
@@ -41,7 +44,7 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 - Images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90 
 
 ![photo](Medias/7_vues.jpg)
-
+Photo de https://www.theglobeandmail.com/arts/art-and-architecture/article-artist-jeremy-shaw-seeks-alternate-transcendent-realities/
 
 # Type d'installation
 - Installation sur des railles fixes
@@ -52,6 +55,7 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 ↓ cliquez pour visonner video youtube ↓
 
 [![video](https://img.youtube.com/vi/Ic0WBa8TNrA/0.jpg)](https://www.youtube.com/watch?v=Ic0WBa8TNrA)
+Vidéo prise par Mateo El-Helou durant l'expo
 
 
 # Mise en espace
@@ -59,6 +63,7 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 - Musiques et sons à volume élevé
 - Espaces sombres éclairés uniquement par les écrans
 ![photo](Medias/3_Croquis.png)
+Croquis desiné par Mateo El-Helou durant l'expo
 
 
 
@@ -71,6 +76,7 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 ↓ cliquez pour visonner video youtube ↓
 
 [![video](https://img.youtube.com/vi/Sk9EG3TkOAA/0.jpg)](https://www.youtube.com/watch?v=Sk9EG3TkOAA)
+Vidéo prise par Mateo El-Helou durant l'expo
 
 
 
@@ -81,6 +87,7 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 - Dispositions pour éviter les saleté de l'hivers (couvre-pieds)
   
 ![photo](Medias/9_elements.jpeg)
+
 
 
 # Expérience vécue
