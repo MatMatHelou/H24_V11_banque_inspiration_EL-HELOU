@@ -116,10 +116,11 @@ Vidéo prise par Mateo El-Helou durant l'expo
 
 
 # ❤️ Ce qui m'a plu
-- Danses relaxantes, émotions douces mélangé avec une certaine agressivité
+- Danses relaxantes, émotions douces, mélangées avec une certaine agressivité
 - Technique d'écrans accrochés par des railles
 - Méditations, prendre ça relax, un genre de yoga, connection spirituelle
-- Révélation du futur, trouver les moyens par la méditation
+- Révélation du futur à travers des images du passé
+- Trouver les moyens de réflechir par la méditation
 
 ↓ cliquez pour visonner video youtube ↓
 
@@ -129,3 +130,6 @@ Vidéo prise par Mateo El-Helou durant l'expo
 
 # 🤔 Aspect que je souhaite pas retenir pour mes propres créations ou que je ferez autrement et justifications
 - Certaines scènes sensuelles n'avaient pas vraiment leur place
+
+
+
