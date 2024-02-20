@@ -79,10 +79,6 @@ Phase Shifting Index a été créée au Centre Pompidou à Paris en 2020 et a fa
 - Projecteurs et spots lumineux fixés au plafond
 - Cablages bien couverts
 - Dispositions pour éviter les saleté de l'hivers (couvre-pieds)
-  
-![photo](Medias/5_danse.jpg)
-
-
 ![photo](Medias/9_elements.jpeg)
 
 
@@ -117,6 +113,8 @@ L'exposition de Jeremy Shaw est une experience de transcendance spirituelle, com
 - Révélation du futur, trouver les moyens par la méditation
 
 ↓ cliquez pour visonner video youtube ↓
+
+![photo](Medias/5_danse.jpg)
 
 [![video](https://img.youtube.com/vi/gC9Gl4DL58Y/0.jpg)](https://www.youtube.com/watch?v=gC9Gl4DL58Y)
 
