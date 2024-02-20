@@ -87,7 +87,7 @@ Vidéo prise par Mateo El-Helou durant l'expo
 - Dispositions pour éviter les saleté de l'hivers (couvre-pieds)
   
 ![photo](Medias/9_elements.jpeg)
-
+Photo de https://flash---art.com/article/jeremy-shaw-phase-shifting-index-centre-pompidou-paris/
 
 
 # Expérience vécue
@@ -107,11 +107,12 @@ L'exposition de Jeremy Shaw est une experience de transcendance spirituelle, com
 - Recherche d’une trans spirituelle (transcendance)
 
 ![photo](Medias/4_danse.jpg)
+Photo prise par Mateo El-Helou durant l'expo
 
 ↓ cliquez pour visonner video youtube ↓
 
 [![video](https://img.youtube.com/vi/-gl8qSCdCBg/0.jpg)](https://www.youtube.com/watch?v=-gl8qSCdCBg)
-
+Vidéo prise par Mateo El-Helou durant l'expo
 
 
 # ❤️ Ce qui m'a plu
@@ -123,6 +124,7 @@ L'exposition de Jeremy Shaw est une experience de transcendance spirituelle, com
 ↓ cliquez pour visonner video youtube ↓
 
 [![video](https://img.youtube.com/vi/gC9Gl4DL58Y/0.jpg)](https://www.youtube.com/watch?v=gC9Gl4DL58Y)
+Vidéo prise par Mateo El-Helou durant l'expo
 
 
 # 🤔 Aspect que je souhaite pas retenir pour mes propres créations ou que je ferez autrement et justifications
