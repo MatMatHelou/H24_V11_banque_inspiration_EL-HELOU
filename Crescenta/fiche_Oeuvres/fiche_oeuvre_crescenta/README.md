@@ -16,7 +16,7 @@ Vaste installation vidéo immersive à sept canaux
 
 
 # Date de ma visite
-31 Janvier 2024 à 14h30
+
 
 
 # Titre de l'oeuvre
@@ -83,6 +83,12 @@ Avec un papier
 Maintenant projeter sur un écran sur le mis
 Maintenant c’est avec des jetons (avec impression 3D/imprimante 3D
 Chaque statues(jetons) fait un effet sur le soleil
+
+![photo](Media
+/Canevas Cosmique_1.jpg)
+
+Media
+/Canevas Cosmique_1.jpg
 
 cinquième oeuvre: Effet-Papillon
 
