@@ -70,6 +70,9 @@ Développement graphique
 Sons calmes
 Maintenant on peut jouer avec le son et en même temps qu’écouter les sons générer quand on appui sur les touches
 
+![photo](Media/Sonalux.jpg)
+
+
 quatrième oeuvre: Canevas Cosmique
 
 Génère des effets et de planètes et trou noir sur écran
