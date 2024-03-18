@@ -87,7 +87,7 @@ Chaque statues(jetons) fait un effet sur le soleil
 ![photo](Media/CanevasCosmique_1.jpg)
 
 
-![photo](Media/CanevasCosmique_1.jpg)
+![photo](Media/CanevasCosmique_2.jpg)
 
 cinquième oeuvre: Effet-Papillon
 
