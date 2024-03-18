@@ -53,6 +53,9 @@ même principe éviter les obstacles
 À la fin du jeux il y’a une barre de tout les score et avec ton score
 Obstacles ont changés
 
+![photo](Media/Kigo.jpg)
+
+
 Deuxième oeuvre: Rhizomatique
 
 2. Kinect ou c’est un projection sur une toile
