@@ -36,7 +36,7 @@ photo de https://www.frieze.com/article/jeremy-shaws-exit-strategy-technology-dr
 
 # Description de l'oeuvre
 
-première oeuvre
+première oeuvre: Kigo
 
 1. Ramasser les X et éviter les rectangle(obstacles)
 Vitesse aiment à chaque fois rapidement
@@ -53,14 +53,14 @@ même principe éviter les obstacles
 À la fin du jeux il y’a une barre de tout les score et avec ton score
 Obstacles ont changés
 
-Deuxième oeuvre
+Deuxième oeuvre: Rhizomatique
 
 2. Kinect ou c’est un projection sur une toile
 Qui scan infrarouge ta main quand tu presse ta main sur la toile
 Noir et blanc
 Maintenant quand tu touches avec ta main sur la toile, sur l’écran mapping, ça génère des images de la vie
 
-troisième oeuvre
+troisième oeuvre: Sonalux
 
 3. Générerion visuel traitement visuel mapping
 Tout programmer
@@ -70,7 +70,7 @@ Développement graphique
 Sons calmes
 Maintenant on peut jouer avec le son et en même temps qu’écouter les sons générer quand on appui sur les touches
 
-quatrième oeuvre
+quatrième oeuvre: Canevas Cosmique
 
 Génère des effets et de planètes et trou noir sur écran
 Avec un papier
@@ -78,7 +78,7 @@ Maintenant projeter sur un écran sur le mis
 Maintenant c’est avec des jetons (avec impression 3D/imprimante 3D
 Chaque statues(jetons) fait un effet sur le soleil
 
-cinquième oeuvre
+cinquième oeuvre: Effet-Papillon
 
 Coder
 Effets papillons
