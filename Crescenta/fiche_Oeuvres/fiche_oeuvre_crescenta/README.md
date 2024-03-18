@@ -108,7 +108,7 @@ Sons avec des sont de tout les jours
 
 ![photo](Media/image_1.jpg)
 
-![photo](Medias/image_2.jpg)
+![photo](Media/image_2.jpg)
 
 
 
