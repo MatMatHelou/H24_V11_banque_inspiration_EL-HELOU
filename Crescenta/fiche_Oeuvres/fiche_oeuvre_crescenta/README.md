@@ -89,7 +89,7 @@ Dans le logiciel détecte lumière par les interactions utilisées
 Sons
 
 
-![photo]()
+![photo](Media/Effet-Papillon.jpg)
 
 
 # Type d'installation
