@@ -106,6 +106,8 @@ Sons avec des sont de tout les jours
 - Kinect ou c’est un projection sur une toile
 - toile graphique
 
+![photo](Media/image_1.jpg)
+
 
 
 
