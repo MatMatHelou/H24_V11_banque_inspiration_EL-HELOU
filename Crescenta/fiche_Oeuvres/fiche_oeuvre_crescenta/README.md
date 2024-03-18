@@ -80,7 +80,6 @@ Chaque statues(jetons) fait un effet sur le soleil
 
 cinquième oeuvre: Effet-Papillon
 
-Coder
 Effets papillons
 Projet final de techniques
 Tirer un corde et et des affaire apparaissent par les projections
@@ -90,8 +89,8 @@ Dans le logiciel détecte lumière par les interactions utilisées
 Sons
 
 
-![photo](Medias/7_vues.jpg)
-Photo de https://www.theglobeandmail.com/arts/art-and-architecture/article-artist-jeremy-shaw-seeks-alternate-transcendent-realities/
+![photo]()
+
 
 # Type d'installation
 - Magic arm
