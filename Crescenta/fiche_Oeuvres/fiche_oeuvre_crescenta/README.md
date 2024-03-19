@@ -84,10 +84,10 @@ Maintenant projeter sur un écran sur le mis
 Maintenant c’est avec des jetons (avec impression 3D/imprimante 3D
 Chaque statues(jetons) fait un effet sur le soleil
 
-![photo](Media/CanevasCosmique1.jpg)
+![photo](Media/CanevasCosmique_1.jpg)
 
 
-![photo](Media/CanevasCosmique2.jpg)
+![photo](Media/CanevasCosmique_2.jpg)
 
 cinquième oeuvre: Effet-Papillon
 
