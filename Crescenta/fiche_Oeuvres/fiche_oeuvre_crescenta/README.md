@@ -1,8 +1,6 @@
 # Nom de l'exposition
 Cresenta
 
-Photo prise par Mateo El-Helou durant l'expo
-
 
 # Lieu de mise en exposition
 Présenté dans le grand studo et dans le petit studio au collège Montmorency
