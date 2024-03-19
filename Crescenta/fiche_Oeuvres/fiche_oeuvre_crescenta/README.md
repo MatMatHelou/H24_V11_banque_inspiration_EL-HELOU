@@ -53,6 +53,10 @@ Obstacles ont changés
 
 ![photo](Media/Kigo.jpg)
 
+[![video](https://www.youtube.com/watch?v=-PwShe3na7M)](https://youtu.be/-PwShe3na7M)
+
+[![video](https://img.youtube.com/vi/Ic0WBa8TNrA/0.jpg)](https://www.youtube.com/watch?v=Ic0WBa8TNrA)
+
 
 Deuxième oeuvre: Rhizomatique
 
