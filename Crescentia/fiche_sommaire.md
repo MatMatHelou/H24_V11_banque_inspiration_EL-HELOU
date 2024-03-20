@@ -51,6 +51,14 @@ même principe éviter les obstacles
 À la fin du jeux il y’a une barre de tout les score et avec ton score
 Obstacles ont changés
 
+# Réalisateurs/Réalisatrices
+
+- Érick Ouellette
+- William Rathier Mailly
+- Gabriel Clerval
+- Nicolas St-Martin
+- Antoine Dion
+
 ![photo](Media/Kigo.jpg)
 
 [![video](https://img.youtube.com/watch?v=-PwShe3na7M)](https://youtu.be/-PwShe3na7M)
@@ -65,6 +73,14 @@ Qui scan infrarouge ta main quand tu presse ta main sur la toile
 Noir et blanc
 Maintenant quand tu touches avec ta main sur la toile, sur l’écran mapping, ça génère des images de la vie
 
+# Réalisateurs/Réalisatrices
+
+- Jolyanne Desjardins
+- MaÏka Désy
+- Laurie Houde
+- Felix Testa Radovanovic
+
+  
 troisième oeuvre: Sonalux
 
 3. Générerion visuel traitement visuel mapping
@@ -74,6 +90,13 @@ Générer son: calme
 Développement graphique
 Sons calmes
 Maintenant on peut jouer avec le son et en même temps qu’écouter les sons générer quand on appui sur les touches
+
+# Réalisateurs/Réalisatrices
+
+- Antoine Haddad
+- Camélie Laprise
+- Ghita Alaoui
+- Vincent Desjardins
 
 ![photo](Media/Sonalux.jpg)
 
@@ -85,6 +108,14 @@ Avec un papier
 Maintenant projeter sur un écran sur le mis
 Maintenant c’est avec des jetons (avec impression 3D/imprimante 3D
 Chaque statues(jetons) fait un effet sur le soleil
+
+# Réalisateurs/Réalisatrices
+
+- Jacob Alarie-Brousseau
+- Étienne Charron
+- Jérémy Cholette
+- Quoc Huy Do
+- Mikaël Tourangeau
 
 ![photo](Media/Jetons_planetes.jpg)
 
@@ -100,6 +131,15 @@ Visuels
 Interactions qui permettent
 Dans le logiciel détecte lumière par les interactions utilisées
 Sons
+
+# Réalisateurs/Réalisatrices
+
+- Raphaël Dumont
+- Alexis Bolduc
+- William Morel
+- Alexia (Ryan) Papanikolaou
+- Viktor Zhuravlev
+- Jasmine Lapierre
 
 
 ![photo](Media/Effet-Papillon.jpg)
