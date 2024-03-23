@@ -97,6 +97,7 @@ troisième oeuvre: Sonalux
 - Camélie Laprise
 - Ghita Alaoui
 - Vincent Desjardins
+  
 
 ![photo](Media/Sonalux.jpg)
 
