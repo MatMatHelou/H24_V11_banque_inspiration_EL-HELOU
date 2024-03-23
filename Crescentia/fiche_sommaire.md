@@ -30,10 +30,6 @@ Le Mercredi 21 Février à la semaine 5 et le Mercredi 13 mars à la semaine 7
    Aussi dans celui du Sonalux. 
 
 
-![photo](Medias/6_ensemble.jpeg)
-photo de https://www.frieze.com/article/jeremy-shaws-exit-strategy-technology-driven-world
-
-
 # Nom de l'artiste
 
 finissants de 3e année de Tim
