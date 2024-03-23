@@ -38,27 +38,24 @@ photo de https://www.frieze.com/article/jeremy-shaws-exit-strategy-technology-dr
 
 
 # Nom de l'artiste
-Étudiant(e)s de troisième année
+
+finissants de 3e année de Tim
 
 
 # Description de l'oeuvre
 
 première oeuvre: Kigo
 
-1. Ramasser les X et éviter les rectangle(obstacles)
-Vitesse aiment à chaque fois rapidement
-Modélisation 3D
-Peut jouer à deux
-Kinect scan to squelette qui permet que quand tu bouge dans l’écran tu bouge
-Programmer avec Unity
-Kinect, Grand écran, barres lumineux,fils
-Projecteurs (projections)
-aléatoire
-Plus vitesse plus difficulté par aléatoire
-Nouvelle mis de jeu/ nouveau background, personne sur une plateforme dans le jeu, des points (+25, +50, +75 et +100 points) ce qui augmente to score
-même principe éviter les obstacles
-À la fin du jeux il y’a une barre de tout les score et avec ton score
-Obstacles ont changés
+1.
+- Ramasser les X et éviter les rectangle (obstacles)
+- Vitesse aiment à chaque fois rapidement
+- Plus vitesse plus difficulté par aléatoire
+- Modélisation 3D
+- Peut jouer à deux
+- Kinect scan to squelette qui permet que quand tu bouge dans l’écran tu bouge
+- Programmer avec Unity
+- Nouvelle mis de jeu/ nouveau background, personne sur une plateforme dans le jeu, des points (+25, +50, +75 et +100 points) ce qui augmente to score
+- À la fin du jeux il y’a une barre de tout les score et avec ton score
 
 # Réalisateurs/Réalisatrices
 
@@ -77,10 +74,10 @@ Obstacles ont changés
 
 Deuxième oeuvre: Rhizomatique
 
-2. Kinect ou c’est un projection sur une toile
-Qui scan infrarouge ta main quand tu presse ta main sur la toile
-Noir et blanc
-Maintenant quand tu touches avec ta main sur la toile, sur l’écran mapping, ça génère des images de la vie
+2.
+- Kinect ou c’est un projection sur une toile qui scan infrarouge ta main quand tu presse ta main sur la toile
+- Noir et blanc
+- Maintenant quand tu touches avec ta main sur la toile, sur l’écran mapping, ça génère des images de la vie
 
 # Réalisateurs/Réalisatrices
 
@@ -92,13 +89,14 @@ Maintenant quand tu touches avec ta main sur la toile, sur l’écran mapping, �
   
 troisième oeuvre: Sonalux
 
-3. Générerion visuel traitement visuel mapping
-Tout programmer
-Laisser aller vers la technologie
-Générer son: calme
-Développement graphique
-Sons calmes
-Maintenant on peut jouer avec le son et en même temps qu’écouter les sons générer quand on appui sur les touches
+3.
+- Générerion visuel
+- Traitement visuel mapping
+- Programmation
+- Appuyer sur les touches qui génére des sons calmes et parfois forts
+- Développement graphique
+- Jouer avec les sons
+- Écouter les sons générés
 
 # Réalisateurs/Réalisatrices
 
@@ -112,11 +110,11 @@ Maintenant on peut jouer avec le son et en même temps qu’écouter les sons g�
 
 quatrième oeuvre: Canevas Cosmique
 
-Génère des effets et de planètes et trou noir sur écran
-Avec un papier
-Maintenant projeter sur un écran sur le mis
-Maintenant c’est avec des jetons (avec impression 3D/imprimante 3D
-Chaque statues(jetons) fait un effet sur le soleil
+4.
+- Génère des effets et de planètes et trou noir sur écran avec un papier
+- Projeter sur un écran sur le mis
+- Jetons (avec impression 3D/imprimante 3D
+- Chaque statues (jetons) fait un effet sur le soleil
 
 # Réalisateurs/Réalisatrices
 
@@ -133,13 +131,14 @@ Chaque statues(jetons) fait un effet sur le soleil
 
 cinquième oeuvre: Effet-Papillon
 
-Effets papillons
-Projet final de techniques
-Tirer un corde et et des affaire apparaissent par les projections
-Visuels
-Interactions qui permettent
-Dans le logiciel détecte lumière par les interactions utilisées
-Sons
+5.
+- Effets papillons
+- Projet final de techniques
+- Tirer un corde et des effets qui apparaissent par les projections
+- Visuels
+- Interactions qui permettent
+- Dans le logiciel qui lui détecte lumière par les interactions utilisées
+- Sons
 
 # Réalisateurs/Réalisatrices
 
