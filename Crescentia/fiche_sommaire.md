@@ -31,6 +31,8 @@ Le Mercredi 21 Février à la semaine 5 et le Mercredi 13 mars à la semaine 7
 
 # présentation d'une une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
 
+La kinnect., parce que je me suis renseigné plus sur cette technique aà l'aide des des étudiants/finissants de 3e année de Tim dont j'ai posé beaucoup de questions a propos du fonctionnement de la Kinnect dans leur oeuvres.
+
 
 # Nom de l'artiste
 
