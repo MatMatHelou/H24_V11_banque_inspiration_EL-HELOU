@@ -28,9 +28,9 @@ Le Mercredi 21 Février à la semaine 5 et le Mercredi 13 mars à la semaine 7
 
 3. Domaines multimédias
 
-  Dans certains de cest oeuvres réalisé il ya beaucoup d'aspect de domaines multimédia notamment dans Rhizomatique avec la toile qui fait en sorte qu'en en appuyant sur la toile l'interacteur
-  qui le fait se déplacera dans le cerveau pour appercevoir ses souvenirs, qui vont e=être par la suite scanner sur des projections immersives
-  Aussi dans celui du Sonalux. 
+   Dans certains de cest oeuvres réalisé il ya beaucoup d'aspect de domaines multimédia notamment dans Rhizomatique avec la toile qui fait en sorte qu'en en appuyant sur la toile l'interacteur
+   qui le fait se déplacera dans le cerveau pour appercevoir ses souvenirs, qui vont e=être par la suite scanner sur des projections immersives
+   Aussi dans celui du Sonalux. 
 
 
 ![photo](Medias/6_ensemble.jpeg)
