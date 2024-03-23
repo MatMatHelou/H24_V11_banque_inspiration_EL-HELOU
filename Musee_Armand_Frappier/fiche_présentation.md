@@ -39,13 +39,10 @@ photo de https://www.frieze.com/article/jeremy-shaws-exit-strategy-technology-dr
 # Description de l'oeuvre
 
 Sujet: la santé et la nutrition
-⁃ Cellule humaine
-
-⁃ Écran tactile, projecteurs, lumières,stand port les tableaux
 
 ⁃ Grand écran Wii montre les ils y’a des informations sur le gaspillage alimentaire
 
-⁃ Écran qui montre quelques recettes de différents pays
+⁃ Écrans qui montre quelques recettes de différents pays
 
 ⁃ Informations sur l’utilisation des nutriments parle corps humain
 
@@ -55,22 +52,31 @@ Sujet: la santé et la nutrition
 
 ⁃ interactions sur l’ouïe (interactions alimentaires (les 5 sens: l’odorat, le goût, le toucher)
 
-⁃ Interactions sur du duvet dès la nourriture⁃ Jeux interactifs aussi
+⁃ Interactions sur du duvet dès la nourriture
+
+⁃ Jeux interactifs aussi
 
 ⁃ Interactions sur les nerfs du système du corps humain dont le système urinaire, reproducteurs, endocriniens, digestifs: la transformation, système musculaire et le système squelettique: structure et protection
 
-⁃ Interactions sur immunitaire: vidéos sur avec des des écouteurs
+⁃ Interactions sur immunitaire: vidéos avec des des écouteurs
 
 ⁃ Projection et projecteurs sur le murs avec du son, papier peint
 
 ⁃ Photos sur miscroscope
+
+⁃ Projections sur le murs avec du son, papier peint
 
 
 ![photo](Medias/7_vues.jpg)
 Photo de https://www.theglobeandmail.com/arts/art-and-architecture/article-artist-jeremy-shaw-seeks-alternate-transcendent-realities/
 
 # Type d'installation
-
+- écouteurs
+- écrans
+⁃ Écrans tactiles
+- projecteurs,
+- lumières
+- stand portant les tableaux
 
 ↓ cliquez pour visonner video youtube ↓
 
