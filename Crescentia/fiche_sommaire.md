@@ -1,5 +1,5 @@
 # Nom de l'exposition
-Cresenta
+Crescentia
 
 
 # Lieu de mise en exposition
