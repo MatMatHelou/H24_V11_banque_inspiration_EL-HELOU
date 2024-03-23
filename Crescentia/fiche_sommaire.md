@@ -20,6 +20,12 @@ Le Mercredi 21 Février à la semaine 5 et le Mercredi 13 mars à la semaine 7
    Dans chaque projets réalisés, le codage est requis  pour faire fonctionnwr certain de ces oeuvres.
    Par exemple: le projet de Sonalux, celui du Kigo et le reste des projets
 
+2. Audio
+
+   Dans beaucoup de ces projots réalisés par les finissants de 3e année de Tim il y énormément de sons et de musique et tour graĉe au cours d'audio.
+   beaucoup de sons dont des objet de la la vie de tout les jours comme par exemple dans le projet du Canevas Cosmique où pour faire les son de planètes
+   et du trou noir. Dans Sonalux aussi les sons qu'on entend dans le casque d'écoute. Le projet Rhizomatique aussi
+
 ![photo](Medias/6_ensemble.jpeg)
 photo de https://www.frieze.com/article/jeremy-shaws-exit-strategy-technology-driven-world
 
