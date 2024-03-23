@@ -15,6 +15,7 @@ Le Mercredi 21 Février à la semaine 5 et le Mercredi 13 mars à la semaine 7
  # 3 cours du programme semblent incontournables pour avoir les compétences pour créer ce genre projet
 
 1. Web
+   
    Ce que'il y a beaucoup de programmation et du codage dans les oeuvres que les finissants de 3e année de Tim ont réalisés.
    Dans chaque projets réalisés, le codage est requis  pour faire fonctionnwr certain de ces oeuvres.
    Par exemple: le projet de Sonalux, celui du Kigo et le reste des projets
