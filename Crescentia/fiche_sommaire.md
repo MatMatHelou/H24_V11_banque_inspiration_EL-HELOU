@@ -4,9 +4,6 @@ Crescentia
 
 # Lieu de mise en exposition
 Présenté dans le grand studo et dans le petit studio au collège Montmorency
-![photo](Medias/2_entree.jpg)
-Photo prise par Mateo El-Helou durant l'expo
-
 
 
 # Date de ma visite
