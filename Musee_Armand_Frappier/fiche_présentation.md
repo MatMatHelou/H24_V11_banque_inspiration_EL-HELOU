@@ -1,4 +1,5 @@
 # Nom de l'exposition
+1, 2, 3, 4 Santé
 
 ![photo](Medias/1_Nom.jpg)
 
@@ -6,6 +7,7 @@ Photo prise par Mateo El-Helou durant l'expo
 
 
 # Lieu de mise en exposition
+ Musée Armand-Frappier à Laval
 
 ![photo](Medias/2_entree.jpg)
 Photo prise par Mateo El-Helou durant l'expo
@@ -20,7 +22,7 @@ Vaste installation vidéo immersive à sept canaux
 
 
 # Titre de l'oeuvre
-
+1, 2, 3, 4 Santé
 
 ![photo](Medias/6_ensemble.jpeg)
 photo de https://www.frieze.com/article/jeremy-shaws-exit-strategy-technology-driven-world
