@@ -8,17 +8,16 @@ Présenté dans le grand studo et dans le petit studio au collège Montmorency
 Photo prise par Mateo El-Helou durant l'expo
 
 
-# Type d'exposition
-Temporaire, intérieure, multimédia
-Vaste installation vidéo immersive à sept canaux
-
 
 # Date de ma visite
+Le Mercredi 21 Février à la semaine 5 et le Mercredi 13 mars à la semaine 7
 
+ # 3 cours du programme semblent incontournables pour avoir les compétences pour créer ce genre projet
 
-
-# Titre de l'oeuvre
-Cresenta 
+1. Web
+   Ce que'il y a beaucoup de programmation et du codage dans les oeuvres que les finissants de 3e année de Tim ont réalisés.
+   Dans chaque projets réalisés, le codage est requis  pour faire fonctionnwr certain de ces oeuvres.
+   Par exemple: le projet de Sonalux, celui du Kigo et le reste des projets
 
 ![photo](Medias/6_ensemble.jpeg)
 photo de https://www.frieze.com/article/jeremy-shaws-exit-strategy-technology-driven-world
@@ -26,10 +25,6 @@ photo de https://www.frieze.com/article/jeremy-shaws-exit-strategy-technology-dr
 
 # Nom de l'artiste
 Étudiant(e)s de troisième année
-
-
-# Année de réalisation
-
 
 
 # Description de l'oeuvre
