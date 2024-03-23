@@ -29,6 +29,8 @@ Le Mercredi 21 Février à la semaine 5 et le Mercredi 13 mars à la semaine 7
    qui le fait se déplacera dans le cerveau pour appercevoir ses souvenirs, qui vont e=être par la suite scanner sur des projections immersives
    Aussi dans celui du Sonalux. 
 
+# présentation d'une une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
+
 
 # Nom de l'artiste
 
