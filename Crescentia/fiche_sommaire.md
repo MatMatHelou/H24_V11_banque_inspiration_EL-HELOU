@@ -11,8 +11,7 @@ Le Mercredi 21 Février à la semaine 5 et le Mercredi 13 mars à la semaine 7
 
 
 # Nom de l'artiste
-
-finissants de 3e année de Tim
+Finissants de 3e année de TIM
 
 
 # Description de l'oeuvre
@@ -31,7 +30,6 @@ première oeuvre: Kigo
 - À la fin du jeux il y’a une barre de tout les score et avec ton score
 
 # Réalisateurs/Réalisatrices
-
 - Érick Ouellette
 - William Rathier Mailly
 - Gabriel Clerval
@@ -41,6 +39,7 @@ première oeuvre: Kigo
 ![photo](Media/Kigo.jpg)
 
 [![video](https://img.youtube.com/watch?v=-PwShe3na7M)](https://youtu.be/-PwShe3na7M)
+[![video](https://youtube.com/watch?v=-PwShe3na7M)](https://youtu.be/-PwShe3na7M)
 
 
 
