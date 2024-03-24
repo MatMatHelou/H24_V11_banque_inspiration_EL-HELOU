@@ -14,9 +14,9 @@ Le Mercredi 21 Février à la semaine 5 et le Mercredi 13 mars à la semaine 7
 Finissants de 3e année de TIM
 
 
-# Description de l'oeuvre
+# Description des oeuvres
 
-première oeuvre: Kigo
+# Première oeuvre: Kigo
 
 1.
 - Ramasser les X et éviter les rectangle (obstacles)
@@ -40,8 +40,8 @@ première oeuvre: Kigo
 
 
 ↓ cliquez pour visonner video youtube ↓
-[![video](https://img.youtube.com/vi/-PwShe3na7M/0.jpg)](https://www.youtube.com/watch?v=-PwShe3na7M)
 
+[![video](https://img.youtube.com/vi/-PwShe3na7M/0.jpg)](https://www.youtube.com/watch?v=-PwShe3na7M)
 
 
 
