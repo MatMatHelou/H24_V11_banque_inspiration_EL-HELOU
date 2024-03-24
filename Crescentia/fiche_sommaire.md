@@ -10,13 +10,6 @@ Présentée dans le grand studio et dans le petit studio au collège Montmorency
 Le Mercredi 21 Février à la semaine 5 et le Mercredi 13 mars à la semaine 7
 
 
-    
-
-# présentation d'une une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
-
-La kinnect., parce que je me suis renseigné plus sur cette technique aà l'aide des des étudiants/finissants de 3e année de Tim dont j'ai posé beaucoup de questions a propos du fonctionnement de la Kinnect dans leur oeuvres.
-
-
 # Nom de l'artiste
 
 finissants de 3e année de Tim
@@ -209,3 +202,11 @@ Photo de https://flash---art.com/article/jeremy-shaw-phase-shifting-index-centre
 4. Domaines multimédias
    Dans certaines de ces oeuvres réalisées, il ya beaucoup d'aspects des domaines multimédia notamment dans Rhizomatique avec la toile qui fait en sorte qu'en appuyant l'interacteur
    qui le fait se déplacera dans le cerveau pour appercevoir ses souvenirs, qui vont être par la suite scanner sur des projections immersives
+
+
+
+# présentation d'une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
+
+La kinnect, parce que je me suis renseigné plus sur cette technique à l'aide des des étudiants finissants de 3e année de TIM à qui j'ai posé beaucoup de questions à propos du fonctionnement de la Kinnect dans leur oeuvres.
+
+Selon la source https://www.lepoint.fr/high-tech-internet/kinect-comment-ca-marche-10-11-2010-1260819_47.php#11: Kinect est composé de trois optiques : deux caméras 3D infrarouges, qui représentent la salle de jeu sous forme d'un quadrillage qui gère la profondeur de champ, et une caméra couleur RVB pour filmer. Kinect doit être placé sur un support stable, le dessus du téléviseur est clairement à proscrire, car son pied est motorisé et s'actionne à chaque démarrage. Grâce à ce mouvement vertical, le capteur scanne son environnement et peut donc s'adapter à toutes les pièces, ainsi qu'à la taille des joueurs. Mais attention : Kinect est gourmand en place et les joueurs devront sûrement déplacer quelques meubles pour satisfaire son besoin d'espace. Microsoft annonce un recul minimum de 1,80 mètre pour jouer seul, et de 2 mètres pour deux participants, mais en réalité, il en faudra un peu plus pour être vraiment à l'aise et ne pas régulièrement avoir de messages d'erreur en cours de partie.
