@@ -3,31 +3,14 @@ Crescentia
 
 
 # Lieu de mise en exposition
-Présenté dans le grand studo et dans le petit studio au collège Montmorency
+Présentée dans le grand studio et dans le petit studio au collège Montmorency
 
 
 # Date de ma visite
 Le Mercredi 21 Février à la semaine 5 et le Mercredi 13 mars à la semaine 7
 
- # 3 cours du programme semblent incontournables pour avoir les compétences pour créer ce genre projet
 
-1. Web
-   
-   Ce que'il y a beaucoup de programmation et du codage dans les oeuvres que les finissants de 3e année de Tim ont réalisés.
-   Dans chaque projets réalisés, le codage est requis  pour faire fonctionnwr certain de ces oeuvres.
-   Par exemple: le projet de Sonalux, celui du Kigo et le reste des projets
-
-2. Audio
-
-   Dans beaucoup de ces projots réalisés par les finissants de 3e année de Tim il y énormément de sons et de musique et tour graĉe au cours d'audio.
-   beaucoup de sons dont des objet de la la vie de tout les jours comme par exemple dans le projet du Canevas Cosmique où pour faire les son de planètes
-   et du trou noir. Dans Sonalux aussi les sons qu'on entend dans le casque d'écoute. Le projet Rhizomatique aussi.
-
-3. Domaines multimédias
-
-   Dans certains de cest oeuvres réalisé il ya beaucoup d'aspect de domaines multimédia notamment dans Rhizomatique avec la toile qui fait en sorte qu'en en appuyant sur la toile l'interacteur
-   qui le fait se déplacera dans le cerveau pour appercevoir ses souvenirs, qui vont e=être par la suite scanner sur des projections immersives
-   Aussi dans celui du Sonalux. 
+    
 
 # présentation d'une une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
 
@@ -210,3 +193,19 @@ Vidéo prise par Mateo El-Helou durant l'expo
 ![photo](Medias/9_elements.jpeg)
 
 Photo de https://flash---art.com/article/jeremy-shaw-phase-shifting-index-centre-pompidou-paris/
+
+# 3 cours du programme semblent incontournables pour avoir les compétences pour créer ce genre projet
+
+1. Web
+  Il y a beaucoup de programmation dans les oeuvres que les finissants de 3e année de TIM ont réalisés.
+  Dans chaque projet réalisé, le codage est requis  pour faire fonctionner certaines de ces oeuvres.
+  Par exemple: le projet de Sonalux ^pour le fonctionnement des boutons, et celui du Kigo puisque c'est un jeu sur une Kinect.
+
+2. Audio
+   Dans beaucoup de ces projets réalisés par les finissants de 3e année de TIM, il y énormément de sons et de musique et c'est graĉe au cours d'audio qu'ils ont pu réalisé cela.
+   Les sons sont des objet de la la vie de tous les jours comme par exemple dans le projet du Canevas Cosmique pour faire les sons des planètes et du trou noir.
+   Dans Sonalux aussi les sons qu'on entend dans le casque d'écoute sont essentiels. Pour le projet Rhizomatique, les sons calmes permettent de vivre l'expérience.
+
+4. Domaines multimédias
+   Dans certaines de ces oeuvres réalisées, il ya beaucoup d'aspects des domaines multimédia notamment dans Rhizomatique avec la toile qui fait en sorte qu'en appuyant l'interacteur
+   qui le fait se déplacera dans le cerveau pour appercevoir ses souvenirs, qui vont être par la suite scanner sur des projections immersives
