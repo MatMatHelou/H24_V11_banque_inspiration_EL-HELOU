@@ -42,8 +42,8 @@ première oeuvre: Kigo
 [![video](https://img.youtube.com/vi/-PwShe3na7M)](https://youtu.be/-PwShe3na7M)
 [![video](https://img.youtube.com/watch?v=-PwShe3na7M)](https://youtu.be/-PwShe3na7M)
 
-[![video](https://img.youtube.com/vi/gC9Gl4DL58Y/0.jpg)](https://www.youtube.com/watch?v=gC9Gl4DL58Y)
-
+[![video](https://img.youtube.com/vi/-PwShe3na7M/0.jpg)](https://www.youtube.com/watch?v=-PwShe3na7M)
+https://www.youtube.com/watch?v=-PwShe3na7M
 
 
 
