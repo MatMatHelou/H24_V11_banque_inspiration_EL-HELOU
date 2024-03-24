@@ -38,8 +38,11 @@ première oeuvre: Kigo
 
 ![photo](Media/Kigo.jpg)
 
+↓ cliquez pour visonner video youtube ↓
+[![video](https://img.youtube.com/vi/-PwShe3na7M)](https://youtu.be/-PwShe3na7M)
 [![video](https://img.youtube.com/watch?v=-PwShe3na7M)](https://youtu.be/-PwShe3na7M)
-[![video](https://youtube.com/watch?v=-PwShe3na7M)](https://youtu.be/-PwShe3na7M)
+
+[![video](https://img.youtube.com/vi/gC9Gl4DL58Y/0.jpg)](https://www.youtube.com/watch?v=gC9Gl4DL58Y)
 
 
 
