@@ -59,7 +59,6 @@ Sujet: la santé et la nutrition
 
 ![photo](Media/Interaction_3.JPG)
 
-![photo](Media/Interaction_2.JPG)
 
 
 - vidéos avec des des écouteurs
