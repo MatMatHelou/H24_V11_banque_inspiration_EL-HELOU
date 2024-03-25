@@ -19,7 +19,7 @@ Vaste installation vidéo immersive à sept canaux
 
 
 # Date de ma visite
-
+Le Lundi 26 Février 2024
 
 # Titre de l'oeuvre
 1, 2, 3, 4 Santé
@@ -29,16 +29,14 @@ photo de https://www.frieze.com/article/jeremy-shaws-exit-strategy-technology-dr
 
 
 # Nom de l'artiste
-
 ⁃ Armand Frappier
 
 # Année de réalisation
-
-
+Du 31 janvier 2023 
 
 # Description de l'oeuvre
-
 Sujet: la santé et la nutrition
+
 ⁃ Grand écran Wii montre les ils y’ a des informations sur le gaspillage alimentaire
 
 ⁃ Écrans qui montre quelques recettes de différents pays
