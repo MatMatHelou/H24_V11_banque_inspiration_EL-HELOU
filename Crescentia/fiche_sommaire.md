@@ -118,9 +118,10 @@ Réalisateurs/Réalisatrices
 - Viktor Zhuravlev
 - Jasmine Lapierre
 
+Avant
+![photo](Media/Effet-Papillon.jpg) 
 
-![photo](Media/Effet-Papillon.jpg)
-
+Après
 ![photo](Media/Effet-Papillon_2.jpg)
 
 
