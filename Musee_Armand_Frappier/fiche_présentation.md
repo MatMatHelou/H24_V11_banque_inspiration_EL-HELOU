@@ -37,7 +37,7 @@ Du 31 janvier 2023
 # Description de l'oeuvre
 Sujet: la santé et la nutrition
 
-- Grand écran Wii montre les ils y a des informations sur le gaspillage alimentaire
+- Grand écran qui montre des informations sur le gaspillage alimentaire
 - Écrans qui montre quelques recettes de différents pays
   
 ![photo](Media/Arepas_de_David.JPG)
@@ -63,13 +63,12 @@ Sujet: la santé et la nutrition
 
 
 - vidéos avec des des écouteurs
-- Projection et projecteurs sur le murs avec du son, papier peint
 - Photos sur miscroscope
 - Projections sur le murs avec du son, papier peint
+- information sur les différents bactéries qu'il peut y avoir 
 
+![photo](Media/Bacteries.jpg)
 
-![photo](Medias/7_vues.jpg)
-Photo de https://www.theglobeandmail.com/arts/art-and-architecture/article-artist-jeremy-shaw-seeks-alternate-transcendent-realities/
 
 # Type d'installation
 - écouteurs
