@@ -123,7 +123,7 @@ Vidéo prise par Mateo El-Helou durant l'expo
 
 # 🤔 Aspect que je souhaite pas retenir pour mes propres créations ou que je ferez autrement et justifications
 
-
+Je souhaite ne pas retenir les type de bactéries qu'il peut y avoir
 
 
 
