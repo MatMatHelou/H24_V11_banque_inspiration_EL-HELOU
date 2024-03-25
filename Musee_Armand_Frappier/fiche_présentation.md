@@ -1,7 +1,7 @@
 # Nom de l'exposition
 1, 2, 3, 4 Santé
 
-![photo](Medias/1_Nom.jpg)
+![photo](Media/Musée_Armand_Frappier.JPG)
 
 Photo prise par Mateo El-Helou durant l'expo
 
