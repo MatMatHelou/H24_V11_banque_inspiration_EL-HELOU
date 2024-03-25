@@ -93,9 +93,11 @@ Vidéo prise par Mateo El-Helou durant l'expo
 
 # Mise en espace
 
-
+![photo](Medias/9_elements.jpeg)
 
 # Composantes et techniques
+
+![photo](Media/2_projecteurs.jpg)
 
 
 # Éléments nécessaires à la mise en exposition
