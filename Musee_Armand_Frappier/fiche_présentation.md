@@ -103,7 +103,7 @@ Vidéo prise par Mateo El-Helou durant l'expo
 # Éléments nécessaires à la mise en exposition
 
   
-![photo](Medias/9_elements.jpeg)
+![photo](Media/Santé_1,2,3,4_2.jpg)
 
 
 # Expérience vécue
@@ -114,7 +114,6 @@ Photo prise par Mateo El-Helou durant l'expo
 
 
 # ❤️ Ce qui m'a plu
-
 
 ↓ cliquez pour visonner video youtube ↓
 
