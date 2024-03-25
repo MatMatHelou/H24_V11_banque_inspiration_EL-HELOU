@@ -65,6 +65,9 @@ Sujet: la santé et la nutrition
 - vidéos avec des des écouteurs
 - Photos sur miscroscope
 - Projections sur le murs avec du son, papier peint
+  
+![photo](Media/sons_papier_peint.JPG)
+ 
 - information sur les différents bactéries qu'il peut y avoir 
 
 ![photo](Media/Bacteries.jpg)
