@@ -53,6 +53,10 @@ Sujet: la santé et la nutrition
 
 ![photo](Media/Interaction_1.JPG)
 
+
+![photo](Media/Interaction_2.JPG)
+
+
 - vidéos avec des des écouteurs
 - Projection et projecteurs sur le murs avec du son, papier peint
 - Photos sur miscroscope
