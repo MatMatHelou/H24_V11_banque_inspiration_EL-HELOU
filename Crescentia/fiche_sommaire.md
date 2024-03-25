@@ -17,19 +17,18 @@ Finissants de 3e année de TIM
 # Description des oeuvres
 
 # Première oeuvre: Kigo
-
 1.
-- Ramasser les X et éviter les rectangle (obstacles)
-- Vitesse aiment à chaque fois rapidement
-- Plus vitesse plus difficulté par aléatoire
+- Ramasser les X et éviter les rectangles (obstacles)
+- Vitesse augmente rapidement à chaque fois
+- Plus de vitesse ammène plus de difficulté, mais aléatoirement
 - Modélisation 3D
-- Peut jouer à deux
-- Kinect scan to squelette qui permet que quand tu bouge dans l’écran tu bouge
-- Programmer avec Unity
-- Nouvelle mis de jeu/ nouveau background, personne sur une plateforme dans le jeu, des points (+25, +50, +75 et +100 points) ce qui augmente to score
-- À la fin du jeux il y’a une barre de tout les score et avec ton score
+- Peut se jouer à deux
+- Kinect scan ton squelette ce qui permet que tu bouges sur l’écran
+- Programmé avec Unity
+- Durant la deuxième visite, j'ai remqrqué que la mise en jeu était sur un nouveau background, une plateforme sur laquelle on se met debout dans le jeu, et des points (+25, +50, +75 et +100 points) pour marquer un score
+- À la fin du jeu il y’a une barre de tous les scores
 
-# Réalisateurs/Réalisatrices
+Réalisateurs/Réalisatrices
 - Érick Ouellette
 - William Rathier Mailly
 - Gabriel Clerval
@@ -45,34 +44,32 @@ Finissants de 3e année de TIM
 
 
 
-Deuxième oeuvre: Rhizomatique
+# Deuxième oeuvre: Rhizomatique
 
 2.
-- Kinect ou c’est un projection sur une toile qui scan infrarouge ta main quand tu presse ta main sur la toile
+- C’est une projection sur une toile qui scanne en infrarouge ta main quand tu presses ta main sur la toile
 - Noir et blanc
-- Maintenant quand tu touches avec ta main sur la toile, sur l’écran mapping, ça génère des images de la vie
+- Maintenant quand tu touches avec ta main sur la toile, sur l’écran mapping, ça génère des images souvenirs de la vie
 
-# Réalisateurs/Réalisatrices
-
+Réalisateurs/Réalisatrices
 - Jolyanne Desjardins
 - MaÏka Désy
 - Laurie Houde
 - Felix Testa Radovanovic
 
   
-troisième oeuvre: Sonalux
+# Troisième oeuvre: Sonalux
 
 3.
-- Générerion visuel
+- Générerion visuelle
 - Traitement visuel mapping
 - Programmation
 - Appuyer sur les touches qui génére des sons calmes et parfois forts
-- Développement graphique
+- Développement graphiques
 - Jouer avec les sons
 - Écouter les sons générés
 
-# Réalisateurs/Réalisatrices
-
+Réalisateurs/Réalisatrices
 - Antoine Haddad
 - Camélie Laprise
 - Ghita Alaoui
@@ -82,16 +79,15 @@ troisième oeuvre: Sonalux
 ![photo](Media/Sonalux.jpg)
 
 
-quatrième oeuvre: Canevas Cosmique
+# Quatrième oeuvre: Canevas Cosmique
 
 4.
-- Génère des effets et de planètes et trou noir sur écran avec un papier
-- Projeter sur un écran sur le mis
-- Jetons (avec impression 3D/imprimante 3D
-- Chaque statues (jetons) fait un effet sur le soleil
+- Génère les effets des planètes et du trou noir sur écran avec un papier
+- Projeter sur un écran sur le mur
+- Jetons imprimés 3D avec imprimante 3D
+- Chaque statue (jeton) fait un effet sur le soleil
 
-# Réalisateurs/Réalisatrices
-
+Réalisateurs/Réalisatrices
 - Jacob Alarie-Brousseau
 - Étienne Charron
 - Jérémy Cholette
@@ -103,19 +99,18 @@ quatrième oeuvre: Canevas Cosmique
 
 ![photo](Media/canevas_cosmique.jpg)
 
-cinquième oeuvre: Effet-Papillon
+
+
+# Cinquième oeuvre: Effet-Papillon
 
 5.
 - Effets papillons
 - Projet final de techniques
-- Tirer un corde et des effets qui apparaissent par les projections
-- Visuels
-- Interactions qui permettent
-- Dans le logiciel qui lui détecte lumière par les interactions utilisées
+- Tirer un corde et des effets qui apparaissent par les projections visuelles
+- Interactions qui permettent dans le logiciel qui lui détecte lumière par les interactions utilisées
 - Sons
 
 # Réalisateurs/Réalisatrices
-
 - Raphaël Dumont
 - Alexis Bolduc
 - William Morel
