@@ -9,7 +9,7 @@ Photo prise par Mateo El-Helou durant l'expo
 # Lieu de mise en exposition
  Musée Armand-Frappier à Laval
 
-![photo](Medias/2_entree.jpg)
+![photo](Media/Lieu.JPG)
 Photo prise par Mateo El-Helou durant l'expo
 
 
