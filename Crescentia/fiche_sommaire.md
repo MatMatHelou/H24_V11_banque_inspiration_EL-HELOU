@@ -140,7 +140,7 @@ Sons avec des sont de tout les jours
 
 ![photo](Media/Projecteur.jpg)
 
-![photo](Media/image_2.jpg)
+![photo](Media/Projecteur_2.jpg)
 
 
 
