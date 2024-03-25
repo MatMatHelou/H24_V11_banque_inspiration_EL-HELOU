@@ -93,7 +93,7 @@ Vidéo prise par Mateo El-Helou durant l'expo
 
 # Mise en espace
 
-![photo](Medias/9_elements.jpeg)
+![photo](Media/Mise_en_espace.JPG)
 
 # Composantes et techniques
 
