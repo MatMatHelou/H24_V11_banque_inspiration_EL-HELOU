@@ -121,6 +121,8 @@ Réalisateurs/Réalisatrices
 
 ![photo](Media/Effet-Papillon.jpg)
 
+![photo](Media/Effet-Papillon_2.jpg)
+
 
 # Type d'installation
 - Magic arm
