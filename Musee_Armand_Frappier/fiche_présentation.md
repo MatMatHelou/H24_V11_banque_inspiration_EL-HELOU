@@ -98,13 +98,6 @@ Vidéo prise par Mateo El-Helou durant l'expo
 
 # Composantes et techniques
 
-  
-↓ cliquez pour visonner video youtube ↓
-
-[![video](https://img.youtube.com/vi/Sk9EG3TkOAA/0.jpg)](https://www.youtube.com/watch?v=Sk9EG3TkOAA)
-Vidéo prise par Mateo El-Helou durant l'expo
-
-
 
 # Éléments nécessaires à la mise en exposition
 
@@ -119,11 +112,6 @@ Photo de https://flash---art.com/article/jeremy-shaw-phase-shifting-index-centre
 
 ![photo](Medias/4_danse.jpg)
 Photo prise par Mateo El-Helou durant l'expo
-
-↓ cliquez pour visonner video youtube ↓
-
-[![video](https://img.youtube.com/vi/-gl8qSCdCBg/0.jpg)](https://www.youtube.com/watch?v=-gl8qSCdCBg)
-Vidéo prise par Mateo El-Helou durant l'expo
 
 
 # ❤️ Ce qui m'a plu
