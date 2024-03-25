@@ -77,6 +77,8 @@ Sujet: la santé et la nutrition
 - projecteurs,
 - lumières
 - stand portant les tableaux
+![photo](Media/Écouteurs.jpg)
+  
 
 ↓ cliquez pour visonner video youtube ↓
 
