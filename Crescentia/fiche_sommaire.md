@@ -28,6 +28,10 @@ Finissants de 3e année de TIM
 - Durant la deuxième visite, j'ai remqrqué que la mise en jeu était sur un nouveau background, une plateforme sur laquelle on se met debout dans le jeu, et des points (+25, +50, +75 et +100 points) pour marquer un score
 - À la fin du jeu il y’a une barre de tous les scores
 
+Lien thème cresencia: voluer dans la compétition et en évitant les obstacles - évolution des backgrounds
+
+Mon expérience: dans l'action, ça bouge, j'aime ça
+
 Réalisateurs/Réalisatrices
 - Érick Ouellette
 - William Rathier Mailly
@@ -57,6 +61,10 @@ Réalisateurs/Réalisatrices
 - Laurie Houde
 - Felix Testa Radovanovic
 
+
+Lien avec cresencia: retour dans le passé avec les souvenirs
+
+Mon expérience: tactile, interactive, sucite la curiosité
   
 # Troisième oeuvre: Sonalux
 
@@ -74,7 +82,10 @@ Réalisateurs/Réalisatrices
 - Camélie Laprise
 - Ghita Alaoui
 - Vincent Desjardins
-  
+
+Lien avec cresencia: voyage astral immaginatif
+
+Mon expérience: très auditive, j'ai apprécié les sons et la modification en interagissant avec les touches
 
 ![photo](Media/Sonalux.jpg)
 
@@ -93,6 +104,10 @@ Réalisateurs/Réalisatrices
 - Jérémy Cholette
 - Quoc Huy Do
 - Mikaël Tourangeau
+
+Lien avec cresencia: simuluation interactive et evolutive du mouvement de planètes
+
+Mon exprience: très bonne approche de faire bouger les jetons et voir les effets que cela procure
 
 ![photo](Media/Jetons_planetes.jpg)
 
@@ -125,18 +140,23 @@ Après
 ![photo](Media/Effet-Papillon_2.jpg)
 
 
-# Type d'installation
+# Type d'installations
 - Magic arm
 - Raspberry Pi
 - Rideaux avec projections
 - Projecteurs
 - Écrans mini ordinateurs
 - (Mdi) moyen de communication
-- Dectections infrarouge sur les papiers qui sont deetecter par des le codage des symbole le sur les bout de papiers sur ordinateurs
-Sons avec des sont de tout les jours
+- Dectection infrarouge sur du papier colls sou sles jetons de statuettes
+- Utilisation des sons de tous les jours de la vie
 - Unity
-- Kinect ou c’est un projection sur une toile
-- toile graphique
+- Kinect
+- Projection sur une toile
+- Toile graphique
+
+Lien avec cresencia: croissance d'une pommier
+
+Mon expérience: interagir avec des objets et expérimenter l'effet papillon de transformation
 
 ![photo](Media/Projecteur.jpg)
 
