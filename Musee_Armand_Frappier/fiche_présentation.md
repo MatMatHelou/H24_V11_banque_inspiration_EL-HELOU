@@ -39,6 +39,10 @@ Sujet: la santé et la nutrition
 
 - Grand écran Wii montre les ils y a des informations sur le gaspillage alimentaire
 - Écrans qui montre quelques recettes de différents pays
+
+
+
+  Interactions
 - Informations sur l’utilisation des nutriments parle corps humain
 - Informations sur la digestion des aliments
 - Informations sur l’alimentation une source de bien être
@@ -46,7 +50,10 @@ Sujet: la santé et la nutrition
 - Interactions sur du duvet dès la nourriture
 - Jeux interactifs aussi
 - Interactions sur les nerfs du système du corps humain dont le système urinaire, reproducteurs, endocriniens, digestifs: la transformation, système musculaire et le système squelettique: structure et protection
-- Interactions sur immunitaire: vidéos avec des des écouteurs
+
+![photo](Media/Interaction_1.JPG)
+
+- vidéos avec des des écouteurs
 - Projection et projecteurs sur le murs avec du son, papier peint
 - Photos sur miscroscope
 - Projections sur le murs avec du son, papier peint
