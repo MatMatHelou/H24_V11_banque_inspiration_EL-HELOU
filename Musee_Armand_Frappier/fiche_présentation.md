@@ -95,7 +95,6 @@ Vidéo prise par Mateo El-Helou durant l'expo
 
 
 
-
 # Composantes et techniques
 
 
@@ -104,13 +103,11 @@ Vidéo prise par Mateo El-Helou durant l'expo
   
 ![photo](Medias/9_elements.jpeg)
 
-Photo de https://flash---art.com/article/jeremy-shaw-phase-shifting-index-centre-pompidou-paris/
-
 
 # Expérience vécue
 
 
-![photo](Medias/4_danse.jpg)
+![photo](Media/experience_vecu.JPG)
 Photo prise par Mateo El-Helou durant l'expo
 
 
