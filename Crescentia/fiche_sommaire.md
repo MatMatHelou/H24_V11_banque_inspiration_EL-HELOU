@@ -141,47 +141,6 @@ Sons avec des sont de tout les jours
 
 
 
-
-
-
-↓ cliquez pour visonner video youtube ↓
-
-[![video](https://img.youtube.com/vi/Ic0WBa8TNrA/0.jpg)](https://www.youtube.com/watch?v=Ic0WBa8TNrA)
-Vidéo prise par Mateo El-Helou durant l'expo
-
-
-# Mise en espace
-- Bancs pour s'asseoir et contempler les écrans
-- Musiques et sons à volume élevé
-- Espaces sombres éclairés uniquement par les écrans
-![photo](Medias/3_Croquis.png)
-Croquis desiné par Mateo El-Helou durant l'expo
-
-
-
-# Composantes et techniques
-- 2 écrans larges et 3 qautres oeuvre projetés sur un mur
-- Projecteurs et ordinateurs connectés
-- Système sonore
-
-  
-↓ cliquez pour visonner video youtube ↓
-
-[![video](https://img.youtube.com/vi/Sk9EG3TkOAA/0.jpg)](https://www.youtube.com/watch?v=Sk9EG3TkOAA)
-Vidéo prise par Mateo El-Helou durant l'expo
-
-
-
-# Éléments nécessaires à la mise en exposition
-- les murs pour la projection de quelques oeuvres
-- Projecteurs et spots lumineux fixés au plafond
-- Cablages bien couverts
-- ordinateurs
-  
-![photo](Medias/9_elements.jpeg)
-
-Photo de https://flash---art.com/article/jeremy-shaw-phase-shifting-index-centre-pompidou-paris/
-
 # 3 cours du programme semblent incontournables pour avoir les compétences pour créer ce genre projet
 
 1. Web
