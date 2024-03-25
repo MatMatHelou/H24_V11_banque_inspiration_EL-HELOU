@@ -80,7 +80,7 @@ Sujet: la santé et la nutrition
 - lumières
 - stand portant les tableaux
   
-![photo](Media/Écouteurs.jpg)
+![photo](Media/Instalation_3.JPG)
 
 ![photo](Media/Support.JPG)
 
