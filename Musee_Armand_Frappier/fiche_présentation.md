@@ -83,12 +83,8 @@ Sujet: la santé et la nutrition
 
 ![photo](Media/Support.JPG)
 
-  
 
-↓ cliquez pour visonner video youtube ↓
-
-[![video](https://img.youtube.com/vi/Ic0WBa8TNrA/0.jpg)](https://www.youtube.com/watch?v=Ic0WBa8TNrA)
-Vidéo prise par Mateo El-Helou durant l'expo
+Photos prise par Mateo El-Helou durant l'expo
 
 
 # Mise en espace
@@ -110,6 +106,7 @@ Vidéo prise par Mateo El-Helou durant l'expo
 
 
 ![photo](Media/experience_vecu.JPG)
+
 Photo prise par Mateo El-Helou durant l'expo
 
 
@@ -123,7 +120,9 @@ Photo prise par Mateo El-Helou durant l'expo
 
 ↓ cliquez pour visonner video youtube ↓
 
-[![video](https://img.youtube.com/vi/gC9Gl4DL58Y/0.jpg)](https://www.youtube.com/watch?v=gC9Gl4DL58Y)
+[![video](https://img.youtube.com/vi/shorts/8IBv3TE_KF4)](https://www.youtube.com/shorts/8IBv3TE_KF4)
+https://youtube.com/shorts/8IBv3TE_KF4
+
 Vidéo prise par Mateo El-Helou durant l'expo
 
 
