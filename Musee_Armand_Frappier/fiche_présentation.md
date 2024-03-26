@@ -120,8 +120,7 @@ Photo prise par Mateo El-Helou durant l'expo
 
 ↓ cliquez pour visonner video youtube ↓
 
-[![video](https://img.youtube.com/vi/shorts/8IBv3TE_KF4)](https://www.youtube.com/shorts/8IBv3TE_KF4)
-https://youtube.com/shorts/8IBv3TE_KF4
+[![video](https://img.youtube.com/vi/8IBv3TE_KF4)](https://www.youtube.com/shorts/8IBv3TE_KF4)
 
 Vidéo prise par Mateo El-Helou durant l'expo
 
