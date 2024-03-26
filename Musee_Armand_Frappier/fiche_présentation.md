@@ -115,6 +115,12 @@ Photo prise par Mateo El-Helou durant l'expo
 
 # ❤️ Ce qui m'a plu
 
+- Les différentes interactions
+- des faits interessants sur le corps human dont notamment le système du corps humain dont le système urinaire, reproducteurs, endocriniens, digestifs: la transformation, système musculaire et le système squelettique: structure et protection
+- vidéos interessants
+- les information surla santé dont notamment la digestion des aliments et l'utilisation des nutriments par le corps humains
+- Un jeu de sepent echèlle  grandeur nature version mais dans le thème de la santé et du corps humain
+
 ↓ cliquez pour visonner video youtube ↓
 
 [![video](https://img.youtube.com/vi/gC9Gl4DL58Y/0.jpg)](https://www.youtube.com/watch?v=gC9Gl4DL58Y)
