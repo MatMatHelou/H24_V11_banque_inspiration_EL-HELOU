@@ -2,7 +2,7 @@
 1, 2, 3, 4 Santé
 
 ![photo](Media/Musée_Armand_Frappier.JPG)
-
+Photo prise de l'entrée du musée
 Photo prise par Mateo El-Helou durant l'expo
 
 
