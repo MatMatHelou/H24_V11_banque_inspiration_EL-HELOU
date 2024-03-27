@@ -72,7 +72,7 @@ Sujet: la santé et la nutrition
 - lumières
 - stand portant les tableaux
   
-![photo](Media/Instalation_3.JPG)
+![photo](Media/Écouteur_2.jpg)
 
 Photos prise par Mateo El-Helou durant l'expo
 
