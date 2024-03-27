@@ -64,9 +64,6 @@ Sujet: la santé et la nutrition
  
 - information sur les différents bactéries qu'il peut y avoir 
 
-![photo](Media/Bacteries.jpg)
-
-
 # Type d'installation
 - écouteurs
 - écrans
