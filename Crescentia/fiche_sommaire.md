@@ -48,51 +48,9 @@ Réalisateurs/Réalisatrices
 
 
 
-# Deuxième oeuvre: Rhizomatique
+# Deuxième oeuvre: Canevas Cosmique
 
 2.
-- C’est une projection sur une toile qui scanne en infrarouge ta main quand tu presses ta main sur la toile
-- Noir et blanc
-- Maintenant quand tu touches avec ta main sur la toile, sur l’écran mapping, ça génère des images souvenirs de la vie
-
-Réalisateurs/Réalisatrices
-- Jolyanne Desjardins
-- MaÏka Désy
-- Laurie Houde
-- Felix Testa Radovanovic
-
-
-Lien avec cresencia: retour dans le passé avec les souvenirs
-
-Mon expérience: tactile, interactive, sucite la curiosité
-  
-# Troisième oeuvre: Sonalux
-
-3.
-- Générerion visuelle
-- Traitement visuel mapping
-- Programmation
-- Appuyer sur les touches qui génére des sons calmes et parfois forts
-- Développement graphiques
-- Jouer avec les sons
-- Écouter les sons générés
-
-Réalisateurs/Réalisatrices
-- Antoine Haddad
-- Camélie Laprise
-- Ghita Alaoui
-- Vincent Desjardins
-
-Lien avec cresencia: voyage astral immaginatif
-
-Mon expérience: très auditive, j'ai apprécié les sons et la modification en interagissant avec les touches
-
-![photo](Media/Sonalux.jpg)
-
-
-# Quatrième oeuvre: Canevas Cosmique
-
-4.
 - Génère les effets des planètes et du trou noir sur écran avec un papier
 - Projeter sur un écran sur le mur
 - Jetons imprimés 3D avec imprimante 3D
@@ -113,6 +71,49 @@ Mon exprience: très bonne approche de faire bouger les jetons et voir les effet
 
 
 ![photo](Media/canevas_cosmique.jpg)
+
+
+
+# Troisième oeuvre: Rhizomatique
+
+3.
+- C’est une projection sur une toile qui scanne en infrarouge ta main quand tu presses ta main sur la toile
+- Noir et blanc
+- Maintenant quand tu touches avec ta main sur la toile, sur l’écran mapping, ça génère des images souvenirs de la vie
+
+Réalisateurs/Réalisatrices
+- Jolyanne Desjardins
+- MaÏka Désy
+- Laurie Houde
+- Felix Testa Radovanovic
+
+
+Lien avec cresencia: retour dans le passé avec les souvenirs
+
+Mon expérience: tactile, interactive, sucite la curiosité
+  
+# Quatrième oeuvre: Sonalux
+
+4.
+- Générerion visuelle
+- Traitement visuel mapping
+- Programmation
+- Appuyer sur les touches qui génére des sons calmes et parfois forts
+- Développement graphiques
+- Jouer avec les sons
+- Écouter les sons générés
+
+Réalisateurs/Réalisatrices
+- Antoine Haddad
+- Camélie Laprise
+- Ghita Alaoui
+- Vincent Desjardins
+
+Lien avec cresencia: voyage astral immaginatif
+
+Mon expérience: très auditive, j'ai apprécié les sons et la modification en interagissant avec les touches
+
+![photo](Media/Sonalux.jpg)
 
 
 
