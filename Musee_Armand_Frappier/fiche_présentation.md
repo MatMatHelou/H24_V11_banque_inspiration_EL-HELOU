@@ -52,8 +52,6 @@ Sujet: la santé et la nutrition
 - Jeux interactifs aussi
 - Interactions sur les nerfs du système du corps humain dont le système urinaire, reproducteurs, endocriniens, digestifs: la transformation, système musculaire et le système squelettique: structure et protection
 
-![photo](Media/Interaction_1.JPG)
-
 ![photo](Media/Interaction_3.JPG)
 
 
