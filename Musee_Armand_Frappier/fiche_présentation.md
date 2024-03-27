@@ -38,8 +38,6 @@ Sujet: la santé et la nutrition
 
 - Grand écran qui montre des informations sur le gaspillage alimentaire
 - Écrans qui montre quelques recettes de différents pays
-  
-![photo](Media/Arepas_de_David.JPG)
 
 
 ![photo](Media/Blocs_de_construction_de_l'humain.JPG)
