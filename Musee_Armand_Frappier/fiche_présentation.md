@@ -74,9 +74,6 @@ Sujet: la santé et la nutrition
   
 ![photo](Media/Instalation_3.JPG)
 
-![photo](Media/Support.JPG)
-
-
 Photos prise par Mateo El-Helou durant l'expo
 
 
