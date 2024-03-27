@@ -52,13 +52,17 @@ Sujet: la santé et la nutrition
 - Jeux interactifs aussi
 - Interactions sur les nerfs du système du corps humain dont le système urinaire, reproducteurs, endocriniens, digestifs: la transformation, système musculaire et le système squelettique: structure et protection
 
+![photo](Media/Projection_laser.JPG)
+
+Le Projetions laser
+Projections sur le murs avec du son, papier peint
+  
 ![photo](Media/Interaction_3.JPG)
 
 
 
 - vidéos avec des des écouteurs
 - Photos sur miscroscope
-- Projections sur le murs avec du son, papier peint
   
 ![photo](Media/sons_papier_peint.JPG)
  
@@ -73,6 +77,10 @@ Sujet: la santé et la nutrition
 - stand portant les tableaux
   
 ![photo](Media/Écouteur_2.jpg)
+
+![photo](Media/Projection_laser.JPG)
+
+ Projetions laser avec les projecteurs quiprojettent des projections
 
 Photos prise par Mateo El-Helou durant l'expo
 
