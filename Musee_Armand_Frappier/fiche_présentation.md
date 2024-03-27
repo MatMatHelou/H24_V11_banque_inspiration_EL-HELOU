@@ -53,9 +53,16 @@ Sujet: la santé et la nutrition
 - Interactions sur les nerfs du système du corps humain dont le système urinaire, reproducteurs, endocriniens, digestifs: la transformation, système musculaire et le système squelettique: structure et protection
 
 ![photo](Media/Projection_laser.JPG)
+Description de la photos
 
-Le Projetions laser
-Projections sur le murs avec du son, papier peint
+- Le Projetions laser
+- Projections sur le murs avec du son, papier peint
+- Information sur le covoiturage, les transports en commun et le vélo
+- L'utilisation des produits ménagers
+- Cosmétiques naturels
+- Consommer moins de viande
+- De manger local ou biologique
+- Ce qui est au rythme des saisons
   
 ![photo](Media/Interaction_3.JPG)
 
