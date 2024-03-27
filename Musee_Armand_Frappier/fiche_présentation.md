@@ -86,10 +86,12 @@ Description de la photos
 ![photo](Media/Écouteur_2.jpg)
 
 ![photo](Media/Projection_laser.JPG)
-
- Projetions laser avec les projecteurs quiprojettent des projections
-
 Photos prise par Mateo El-Helou durant l'expo
+
+Description de l'oeuvre
+ - Projetions laser avec les projecteurs quiprojettent des projections
+
+
 
 
 # Mise en espace
