@@ -149,7 +149,8 @@ Très auditive, j'ai apprécié les sons et la modification en interagissant ave
 
 ![photo](Media/Schema_de_plantation.jpg)
 
-![photo](Media/Schema_de_plantation.jpg)
+![photo](Media/Logiciels_requis.jpg)
+
 
 # Cinquième oeuvre: Effet-Papillon
 
