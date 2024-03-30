@@ -36,6 +36,9 @@ DESCRIPTION
 - Durant la deuxième visite, j'ai remqrqué que la mise en jeu avait un nouveau background et une plateforme sur laquelle on se met debout dans le jeu
 - Les créateurs ont ajouté aussi des points (+25, +50, +75 et +100 points) pour marquer un score - à la fin du jeu il y’a une barre qui marque tous les scores
 
+TYPES D'INSTALLATIONS
+-
+
 LIEN AVEC CRESENCIA
 - Évoluer dans la compétition en évitant les obstacles avec une évolution des backgrounds
 
@@ -54,22 +57,27 @@ MON EXPÉRIENCE
 
 # Deuxième oeuvre: Canevas Cosmique
 
-2.
-- Génère les effets des planètes et du trou noir sur écran avec un papier
-- Projeter sur un écran sur le mur
-- Jetons imprimés 3D avec imprimante 3D
-- Chaque statue (jeton) fait un effet sur le soleil
-
-Réalisateurs/Réalisatrices
+RÉALISATEURS / RÉALISATRICES
 - Jacob Alarie-Brousseau
 - Étienne Charron
 - Jérémy Cholette
 - Quoc Huy Do
 - Mikaël Tourangeau
 
-Lien avec cresencia: simuluation interactive et evolutive du mouvement de planètes
+DESCRIPTION
+- Génère les effets des planètes et du trou noir sur écran avec un papier
+- Projeté sur un écran sur le mur
+- Jetons imprimés 3D avec imprimante 3D
+- Chaque statue (jeton) produit un effet sur le soleil
 
-Mon exprience: très bonne approche de faire bouger les jetons et voir les effets que cela procure
+TYPES D'INSTALLATIONS
+-
+
+LIEN AVEC CRESENCIA
+- Simuluation interactive et evolutive du mouvement des planètes
+
+MON EXPÉRIENCE
+- Très bonne approche de faire bouger les jetons et voir les effets que cela produit
 
 ![photo](Media/Jetons_planetes.jpg)
 
@@ -78,65 +86,89 @@ Mon exprience: très bonne approche de faire bouger les jetons et voir les effet
 
 
 
+
+
 # Troisième oeuvre: Rhizomatique
 
-3.
-- C’est une projection sur une toile qui scanne en infrarouge ta main quand tu presses ta main sur la toile
-- Noir et blanc
-- Maintenant quand tu touches avec ta main sur la toile, sur l’écran mapping, ça génère des images souvenirs de la vie
-
-Réalisateurs/Réalisatrices
+RÉALISATEURS / RÉALISATRICES
 - Jolyanne Desjardins
 - MaÏka Désy
 - Laurie Houde
 - Felix Testa Radovanovic
 
+TYPES D'INSTALLATIONS
+- 
 
-Lien avec cresencia: retour dans le passé avec les souvenirs
 
-Mon expérience: tactile, interactive, sucite la curiosité
-  
+DESCRIPTION
+- Une projection sur une toile qui scanne en infrarouge ta main quand tu la presses sur la toile
+- Noir et blanc durant la première visite - en couleurs durant la deuxième visite
+- Maintenant quand tu touches avec ta main sur la toile, sur l’écran mapping, ça génère des images souvenirs de la vie
+
+LIEN AVEC CRESENCIA
+- Retour dans le passé avec les souvenirs
+
+MON EXPÉRIENCE
+- Tactile, interactive, sucite la curiosité
+
+
+
+
 # Quatrième oeuvre: Sonalux
 
-4.
-- Générerion visuelle
-- Traitement visuel mapping
-- Programmation
-- Appuyer sur les touches qui génére des sons calmes et parfois forts
-- Développement graphiques
-- Jouer avec les sons
-- Écouter les sons générés
-
-Réalisateurs/Réalisatrices
+RÉALISATEURS / RÉALISATRICES
 - Antoine Haddad
 - Camélie Laprise
 - Ghita Alaoui
 - Vincent Desjardins
 
-Lien avec cresencia: voyage astral immaginatif
+DESCRIPTION
+- Génération visuelle
+- Traitement visuel mapping
+- Programmation
+- Appuyer sur les touches qui générent des sons calmes et parfois forts
+- Développements graphiques visuels
+- Jouer avec les sons
+- Écouter les sons générés
 
-Mon expérience: très auditive, j'ai apprécié les sons et la modification en interagissant avec les touches
+TYPES D'INSTALLATIONS
+- 
+
+LIEN AVEC CRESENCIA
+- Voyage astral immaginatif
+
+MON EXPÉRIENCE
+Très auditive, j'ai apprécié les sons et la modification en interagissant avec les touches
 
 ![photo](Media/Sonalux.jpg)
 
 
 
+
+
+
 # Cinquième oeuvre: Effet-Papillon
 
-5.
-- Effets papillons
-- Projet final de techniques
-- Tirer un corde et des effets qui apparaissent par les projections visuelles
-- Interactions qui permettent dans le logiciel qui lui détecte lumière par les interactions utilisées
-- Sons
-
-# Réalisateurs/Réalisatrices
+RÉALISATEURS / RÉALISATRICES
 - Raphaël Dumont
 - Alexis Bolduc
 - William Morel
 - Alexia (Ryan) Papanikolaou
 - Viktor Zhuravlev
 - Jasmine Lapierre
+
+DESCRIPTION
+- Évolution d'une plantation
+- Exemple d'interaction: tirer une corde et des effets qui apparaissent par les projections visuelles
+- Interactions qui permettent dans le logiciel de détecter les lumières par les interactions utilisées
+- Sons multiples pré-enregistrés
+
+TYPES D'INSTALLATIONS
+- 
+
+
+LIEN AVEC CRESENCIA
+- Croissance d'une pommier
 
 Avant
 ![photo](Media/Effet-Papillon.jpg) 
@@ -145,7 +177,8 @@ Après
 ![photo](Media/Effet-Papillon_2.jpg)
 
 
-# Type d'installations
+
+TYPES D'INSTALLATIONS
 - Magic arm
 - Raspberry Pi
 - Rideaux avec projections
@@ -159,9 +192,9 @@ Après
 - Projection sur une toile
 - Toile graphique
 
-Lien avec cresencia: croissance d'une pommier
 
-Mon expérience: interagir avec des objets et expérimenter l'effet papillon de transformation
+MON EXPÉRIENCE
+- Interagir avec des objets et expérimenter l'effet papillon de transformation
 
 ![photo](Media/Projecteur.jpg)
 
