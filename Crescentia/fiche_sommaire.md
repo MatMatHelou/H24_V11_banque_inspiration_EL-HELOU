@@ -6,7 +6,7 @@ Crescentia
 Présentée dans le grand studio et dans le petit studio au collège Montmorency
 
 
-# Date de ma visite
+# Date de mes visites
 Le mercredi 21 février à la semaine 5 et le mercredi 13 mars à la semaine 7
 
 
@@ -35,6 +35,7 @@ DESCRIPTION
 - Programmé avec Unity
 - Durant la deuxième visite, j'ai remqrqué que la mise en jeu avait un nouveau background et une plateforme sur laquelle on se met debout dans le jeu
 - Les créateurs ont ajouté aussi des points (+25, +50, +75 et +100 points) pour marquer un score - à la fin du jeu il y’a une barre qui marque tous les scores
+
 
 TYPES D'INSTALLATIONS
 -
