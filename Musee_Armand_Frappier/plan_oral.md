@@ -36,7 +36,11 @@ Type d'installation
 - lumières
 - stand portant les tableaux
 
-  Composantes et techniques
+Composantes et techniques
+- Projecteurs et projections
+
+
+
 
 # Expérience vécue (Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité/contemplation/immersion/fonction, des gestes à poser, etc)
 
