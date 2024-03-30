@@ -36,9 +36,8 @@ DESCRIPTION
 - Durant la deuxième visite, j'ai remqrqué que la mise en jeu avait un nouveau background et une plateforme sur laquelle on se met debout dans le jeu
 - Les créateurs ont ajouté aussi des points (+25, +50, +75 et +100 points) pour marquer un score - à la fin du jeu il y’a une barre qui marque tous les scores
 
-
 TYPES D'INSTALLATIONS
--
+-...
 
 LIEN AVEC CRESENCIA
 - Évoluer dans la compétition en évitant les obstacles avec une évolution des backgrounds
