@@ -29,7 +29,12 @@ Année de réalisation
 - Du 31 janvier 2023
 
 # Présentation détaillée de l'oeuvre ou du dispositif multimédia (description, type d'installation, fonction, mise en espace, composantes, éléments)
-
+Type d'installation
+- écouteurs
+- écrans ⁃ Écrans tactiles
+- projecteurs,
+- lumières
+- stand portant les tableaux
 
 # Expérience vécue (Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité/contemplation/immersion/fonction, des gestes à poser, etc)
 
