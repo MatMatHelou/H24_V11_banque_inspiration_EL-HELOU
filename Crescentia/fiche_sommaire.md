@@ -92,7 +92,7 @@ MON EXPÉRIENCE
 
 ↓ Photos fournis par les finissants de 3e année de TIM ↓
 
-![photo](Media/canevas_cosmique.jpg)
+![photo](Media/Croquis_2.jpg)
 
 
 # Troisième oeuvre: Rhizomatique
