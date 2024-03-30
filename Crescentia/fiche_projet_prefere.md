@@ -20,9 +20,11 @@ Le projet que j'ai aimée, que j'ai adoré et qui me passione c'est le je projet
 - Plus vitesse plus difficulté par aléatoire c'est ce qui rend le jeu plus interessant 
 - À la fois, c'est un jeu dont l'utilisation de la Kinnect alrs c'e quee j'aime aussi car il y a de l'action
 
+↓ Photo durant ma première visite ↓
 
 ![photo](Media/Kigo.jpg)
 
-Photo durant ma visite
+
+↓ cliquez pour visonner video youtube ↓
 
 [![video](https://img.youtube.com/vi/-PwShe3na7M/0.jpg)](https://www.youtube.com/watch?v=-PwShe3na7M)
