@@ -19,3 +19,8 @@ Le projet que j'ai aimée, que j'ai adoré et qui me passione c'est le je projet
 - Ce que j'ai aimé dans cette oeuvre avant c'tait l'arrière-plan du jeu et mais il y avais pas beaucoup de décoration dans l'arrière-plan
 - Plus vitesse plus difficulté par aléatoire c'est ce qui rend le jeu plus interessant 
 - À la fois, c'est un jeu dont l'utilisation de la Kinnect alrs c'e quee j'aime aussi car il y a de l'action
+
+
+![photo](Media/Kigo.jpg)
+
+Photo durant ma visite
