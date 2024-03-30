@@ -7,7 +7,7 @@ Présentée dans le grand studio et dans le petit studio au collège Montmorency
 
 
 # Date de ma visite
-Le Mercredi 21 Février à la semaine 5 et le Mercredi 13 mars à la semaine 7
+Le mercredi 21 février à la semaine 5 et le mercredi 13 mars à la semaine 7
 
 
 # Nom de l'artiste
@@ -17,7 +17,15 @@ Finissants de 3e année de TIM
 # Description des oeuvres
 
 # Première oeuvre: Kigo
-1.
+
+RÉALISATEURS / RÉALISATRICES
+- Érick Ouellette
+- William Rathier Mailly
+- Gabriel Clerval
+- Nicolas St-Martin
+- Antoine Dion
+
+DESCRIPTION:
 - Ramasser les X et éviter les rectangles (obstacles)
 - Vitesse augmente rapidement à chaque fois
 - Plus de vitesse ammène plus de difficulté, mais aléatoirement
@@ -25,19 +33,15 @@ Finissants de 3e année de TIM
 - Peut se jouer à deux
 - Kinect scan ton squelette ce qui permet que tu bouges sur l’écran
 - Programmé avec Unity
-- Durant la deuxième visite, j'ai remqrqué que la mise en jeu était sur un nouveau background, une plateforme sur laquelle on se met debout dans le jeu, et des points (+25, +50, +75 et +100 points) pour marquer un score
-- À la fin du jeu il y’a une barre de tous les scores
+- Durant la deuxième visite, j'ai remqrqué que la mise en jeu avait un nouveau background et une plateforme sur laquelle on se met debout dans le jeu
+- Les créateurs ont ajouté aussi des points (+25, +50, +75 et +100 points) pour marquer un score - à la fin du jeu il y’a une barre qui marque tous les scores
 
-Lien thème cresencia: voluer dans la compétition et en évitant les obstacles - évolution des backgrounds
+LIEN AVEC CRESENCIA
+Évoluer dans la compétition en évitant les obstacles avec une évolution des backgrounds
 
-Mon expérience: dans l'action, ça bouge, j'aime ça
+MON EXPÉRIENCE
+Dans l'action, ça bouge, j'aime ça
 
-Réalisateurs/Réalisatrices
-- Érick Ouellette
-- William Rathier Mailly
-- Gabriel Clerval
-- Nicolas St-Martin
-- Antoine Dion
 
 ![photo](Media/Kigo.jpg)
 
