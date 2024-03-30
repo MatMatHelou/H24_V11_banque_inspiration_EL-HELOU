@@ -22,6 +22,12 @@ Date de ma visite
 Titre de l'oeuvre
 - 1, 2, 3, 4 Santé
 
+Nom de l'artiste
+⁃ Armand Frappier
+
+Année de réalisation
+- Du 31 janvier 2023
+
 # Présentation détaillée de l'oeuvre ou du dispositif multimédia (description, type d'installation, fonction, mise en espace, composantes, éléments)
 
 
