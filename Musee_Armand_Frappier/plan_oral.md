@@ -5,7 +5,7 @@ Introduction :
 # Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)
 
 Développement :
-# nformations sur l'oeuvre ou le dispositif multimémia et le lieu d'exposition (Titre, Nom de l'artiste ou de la firme, Année de réalisation, Nom de l'exposition ou de l'événement, Type d'exposition, Lieu de mise en exposition + Infos sur le lieu, Date de votre visite)
+# Informations sur l'oeuvre ou le dispositif multimémia et le lieu d'exposition (Titre, Nom de l'artiste ou de la firme, Année de réalisation, Nom de l'exposition ou de l'événement, Type d'exposition, Lieu de mise en exposition + Infos sur le lieu, Date de votre visite)
 
 
 # Présentation détaillée de l'oeuvre ou du dispositif multimédia (description, type d'installation, fonction, mise en espace, composantes, éléments)
