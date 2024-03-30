@@ -134,6 +134,10 @@ DESCRIPTION
 
 TYPES D'INSTALLATIONS
 - Écrans mini ordinateurs
+- TouchDesigner
+- VCV Rack
+- Arduuino
+- Kinect v.1.8 studio
 
 LIEN AVEC CRESENCIA
 - Voyage astral immaginatif
