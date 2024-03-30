@@ -10,6 +10,9 @@ Développement :
 Nom de l'exposition
 1, 2, 3, 4 Santé
 
+Lieu de mise en exposition
+ Musée Armand-Frappier à Laval
+
 # Présentation détaillée de l'oeuvre ou du dispositif multimédia (description, type d'installation, fonction, mise en espace, composantes, éléments)
 
 
