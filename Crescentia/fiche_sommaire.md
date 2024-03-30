@@ -147,8 +147,9 @@ Très auditive, j'ai apprécié les sons et la modification en interagissant ave
 
 ![photo](Media/Sonalux.jpg)
 
-![photo](Media/Sonalux.jpg)
+![photo](Media/Schema_de_plantation.jpg)
 
+![photo](Media/Schema_de_plantation.jpg)
 
 # Cinquième oeuvre: Effet-Papillon
 
