@@ -39,7 +39,9 @@ DESCRIPTION
 TYPES D'INSTALLATIONS
 - Unity
 - Kinect
+- projection sur le mur
 
+  
 LIEN AVEC CRESENCIA
 - Évoluer dans la compétition en évitant les obstacles avec une évolution des backgrounds
 
