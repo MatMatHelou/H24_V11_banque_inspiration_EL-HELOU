@@ -36,6 +36,8 @@ Type d'installation
 - lumières
 - stand portant les tableaux
 
+  Composantes et techniques
+
 # Expérience vécue (Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité/contemplation/immersion/fonction, des gestes à poser, etc)
 
 
