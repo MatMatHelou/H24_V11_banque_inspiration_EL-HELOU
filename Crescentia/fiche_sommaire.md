@@ -90,6 +90,11 @@ MON EXPÉRIENCE
 ![photo](Media/canevas_cosmique.jpg)
 
 
+↓ Photos fournis par les finissants de 3e année de TIM ↓
+
+![photo](Media/canevas_cosmique.jpg)
+
+
 # Troisième oeuvre: Rhizomatique
 
 RÉALISATEURS / RÉALISATRICES
@@ -113,6 +118,8 @@ LIEN AVEC CRESENCIA
 
 MON EXPÉRIENCE
 - Tactile, interactive, sucite la curiosité
+
+↓ Photos fournis par les finissants de 3e année de TIM ↓
 
 
 # Quatrième oeuvre: Sonalux
@@ -146,6 +153,8 @@ MON EXPÉRIENCE
 Très auditive, j'ai apprécié les sons et la modification en interagissant avec les touches
 
 ![photo](Media/Sonalux.jpg)
+
+↓ Photos fournis par les finissants de 3e année de TIM ↓
 
 ![photo](Media/Schema_de_plantation.jpg)
 
