@@ -120,7 +120,7 @@ MON EXPÉRIENCE
 - Tactile, interactive, sucite la curiosité
 
 ↓ Photos fournis par les finissants de 3e année de TIM ↓
-
+![photo](Media/Croquis_.jpg) 
 
 # Quatrième oeuvre: Sonalux
 
