@@ -37,7 +37,8 @@ DESCRIPTION
 - Les créateurs ont ajouté aussi des points (+25, +50, +75 et +100 points) pour marquer un score - à la fin du jeu il y’a une barre qui marque tous les scores
 
 TYPES D'INSTALLATIONS
--...
+- Unity
+- Kinect
 
 LIEN AVEC CRESENCIA
 - Évoluer dans la compétition en évitant les obstacles avec une évolution des backgrounds
@@ -52,7 +53,6 @@ MON EXPÉRIENCE
 ↓ cliquez pour visonner video youtube ↓
 
 [![video](https://img.youtube.com/vi/-PwShe3na7M/0.jpg)](https://www.youtube.com/watch?v=-PwShe3na7M)
-
 
 
 # Deuxième oeuvre: Canevas Cosmique
@@ -71,8 +71,11 @@ DESCRIPTION
 - Chaque statue (jeton) produit un effet sur le soleil
 
 TYPES D'INSTALLATIONS
--
-
+- Projecteurs
+- Unity
+- Dectection infrarouge sur du papier, collés sous les jetons de statuettes
+- Utilisation des sons de tous les jours de la vie
+  
 LIEN AVEC CRESENCIA
 - Simuluation interactive et evolutive du mouvement des planètes
 
@@ -85,9 +88,6 @@ MON EXPÉRIENCE
 ![photo](Media/canevas_cosmique.jpg)
 
 
-
-
-
 # Troisième oeuvre: Rhizomatique
 
 RÉALISATEURS / RÉALISATRICES
@@ -97,7 +97,8 @@ RÉALISATEURS / RÉALISATRICES
 - Felix Testa Radovanovic
 
 TYPES D'INSTALLATIONS
-- 
+- Projection sur une toile
+- Toile graphique
 
 
 DESCRIPTION
@@ -110,8 +111,6 @@ LIEN AVEC CRESENCIA
 
 MON EXPÉRIENCE
 - Tactile, interactive, sucite la curiosité
-
-
 
 
 # Quatrième oeuvre: Sonalux
@@ -132,7 +131,7 @@ DESCRIPTION
 - Écouter les sons générés
 
 TYPES D'INSTALLATIONS
-- 
+- Écrans mini ordinateurs
 
 LIEN AVEC CRESENCIA
 - Voyage astral immaginatif
@@ -141,10 +140,6 @@ MON EXPÉRIENCE
 Très auditive, j'ai apprécié les sons et la modification en interagissant avec les touches
 
 ![photo](Media/Sonalux.jpg)
-
-
-
-
 
 
 # Cinquième oeuvre: Effet-Papillon
@@ -164,8 +159,10 @@ DESCRIPTION
 - Sons multiples pré-enregistrés
 
 TYPES D'INSTALLATIONS
-- 
-
+- Magic arm
+- Raspberry Pi
+- Rideaux avec projections
+- (Mdi) moyen de communication
 
 LIEN AVEC CRESENCIA
 - Croissance d'une pommier
@@ -175,22 +172,6 @@ Avant
 
 Après
 ![photo](Media/Effet-Papillon_2.jpg)
-
-
-
-TYPES D'INSTALLATIONS
-- Magic arm
-- Raspberry Pi
-- Rideaux avec projections
-- Projecteurs
-- Écrans mini ordinateurs
-- (Mdi) moyen de communication
-- Dectection infrarouge sur du papier colls sou sles jetons de statuettes
-- Utilisation des sons de tous les jours de la vie
-- Unity
-- Kinect
-- Projection sur une toile
-- Toile graphique
 
 
 MON EXPÉRIENCE
