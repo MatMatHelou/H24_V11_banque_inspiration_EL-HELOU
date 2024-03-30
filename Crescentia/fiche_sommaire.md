@@ -25,7 +25,7 @@ RÉALISATEURS / RÉALISATRICES
 - Nicolas St-Martin
 - Antoine Dion
 
-DESCRIPTION:
+DESCRIPTION
 - Ramasser les X et éviter les rectangles (obstacles)
 - Vitesse augmente rapidement à chaque fois
 - Plus de vitesse ammène plus de difficulté, mais aléatoirement
@@ -37,10 +37,10 @@ DESCRIPTION:
 - Les créateurs ont ajouté aussi des points (+25, +50, +75 et +100 points) pour marquer un score - à la fin du jeu il y’a une barre qui marque tous les scores
 
 LIEN AVEC CRESENCIA
-Évoluer dans la compétition en évitant les obstacles avec une évolution des backgrounds
+- Évoluer dans la compétition en évitant les obstacles avec une évolution des backgrounds
 
 MON EXPÉRIENCE
-Dans l'action, ça bouge, j'aime ça
+- Dans l'action, ça bouge, j'aime ça
 
 
 ![photo](Media/Kigo.jpg)
