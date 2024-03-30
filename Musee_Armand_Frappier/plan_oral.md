@@ -15,6 +15,15 @@ Lieu de mise en exposition
 
 - Musée Armand-Frappier à Laval
 
+Type d'exposition
+- Temporaire, intérieure, multimédia Vaste installation vidéo immersive à sept canaux
+
+Date de ma visite
+- Le Lundi 26 Février 2024
+
+Titre de l'oeuvre
+- 1, 2, 3, 4 Santé
+
 # Présentation détaillée de l'oeuvre ou du dispositif multimédia (description, type d'installation, fonction, mise en espace, composantes, éléments)
 
 
