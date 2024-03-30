@@ -1,4 +1,4 @@
-Le projet que j'ai aimée, que j'ai adoré et qui me passione c'est le je projet Kigo
+Le projet que j'ai aimée, adoré et qui me passione c'est le je projet Kigo
 
  # Projet Kigo
 
