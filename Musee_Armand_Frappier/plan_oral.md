@@ -57,7 +57,7 @@ Composantes et techniques
 
 # Appréciation critique et justifications (Ce qui vous a plu, vous a donné des idées 
 
-J'ai bien aimé la visite individuelle dont notamment celui de la projection laser faite sur un mur j'ai bien aimé la projection laser parce que il yavais plein d'informations et c'est même bien fait avec les projjection et du papier paint 
+J'ai bien aimé la visite individuelle dont notamment celui de la projection laser faite sur un mur j'ai bien aimé la projection laser parce que il yavais plein d'informations et c'est même bien fait avec les projjection et du papier paint et commenr c'est bien présenté sur le mur avec les projecteurs et projections
 
 # Aspects que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement)
 
@@ -65,8 +65,13 @@ J'ai bien aimé la visite individuelle dont notamment celui de la projection las
 
 #  Liens avec autres oeuvres, dispositifs et expériences multimédias découverts cette session
 
+
 Conclusion :
  # Rappel des aspects présentés
-
+- Le Type d'exposition
+- Type d'installation
+- La description de l'exposition que j'ai mis
+- Composantes et techniques
  
  # Ouverture : élément inspirant retenu parmi toutes les oeuvres, dispositfs et expériences de la session
+ Les éléments inspirants que j'ai retenus c'est dans la projection laserl'information du de planter des arbres, fleurs et plantes même surtout de manger moins de viande.
