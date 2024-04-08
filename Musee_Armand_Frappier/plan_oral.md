@@ -1,7 +1,7 @@
 Introduction :
 # Quel est l'objectif de votre communication (sujet posé = présentation oeuvre ou du dispositif + expérience)
 
-L'objectif de ma communication est de demontraot ce que j'ai appris lors de ma vsite au Muséee Armand-Frappier pour l'exposition !,2,3,4 Santé dont notamment en parler plus précisemment celui de la Projection laser dans l'exposition.
+L'objectif de ma communication est de demontré ce que j'ai appris lors de ma vsite au Muséee Armand-Frappier pour l'exposition !,2,3,4 Santé dont notamment en parler plus précisemment celui de la Projection laser dans l'exposition.
 
 Mon experience: J'ai bien aimé la visite individuelle dont notamment celui de la projection laser faite sur un mur j'ai bien aimé la projection laser parce que il yavais plein d'informations et c'est même bien fait avec les projjection et du papier paint
 
