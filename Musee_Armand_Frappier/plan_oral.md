@@ -3,9 +3,8 @@ Introduction :
 
 L'objectif de ma communication est de demontré ce que j'ai appris lors de ma vsite au Muséee Armand-Frappier pour l'exposition !,2,3,4 Santé dont notamment en parler plus précisemment celui de la Projection laser dans l'exposition.
 
-Mon experience: J'ai bien aimé la visite individuelle dont notamment celui de la projection laser faite sur un mur j'ai bien aimé la projection laser parce que il yavais plein d'informations et c'est même bien fait avec les projjection et du papier paint
+Mon experience: 
 
-# Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)
 Les aspects qui seront abordés c'est le type d'exposition et de quoi çca regroupe même chose pour la descrption de l'exposition et de la projection laser, des composantes et techniques et le type d'installation utilisé pour cette exposition
 
 
@@ -34,6 +33,7 @@ Année de réalisation
 - Du 31 janvier 2023
 
 # Présentation détaillée de l'oeuvre ou du dispositif multimédia (description, type d'installation, fonction, mise en espace, composantes, éléments)
+
 Type d'installation
 - écouteurs
 - écrans ⁃ Écrans tactiles
@@ -49,9 +49,19 @@ Composantes et techniques
 
 # Expérience vécue (Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité/contemplation/immersion/fonction, des gestes à poser, etc)
 
+# Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)
+- Le Type d'exposition
+- Type d'installation
+- La description de l'exposition que j'ai mis
+- Composantes et techniques
 
-# Appréciation critique et justifications (Ce qui vous a plu, vous a donné des idées + Aspects que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement)
+# Appréciation critique et justifications (Ce qui vous a plu, vous a donné des idées 
 
+J'ai bien aimé la visite individuelle dont notamment celui de la projection laser faite sur un mur j'ai bien aimé la projection laser parce que il yavais plein d'informations et c'est même bien fait avec les projjection et du papier paint 
+
+# Aspects que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement)
+
+- Quelques informations dans la projection laser dont notammebnt sur le covoiturage et l'utilisation des produits ménager et cosmétiques naturels
 
 #  Liens avec autres oeuvres, dispositifs et expériences multimédias découverts cette session
 
