@@ -1,6 +1,6 @@
 Introduction :
 # Quel est l'objectif de votre communication (sujet posé = présentation oeuvre ou du dispositif + expérience)
-
+L'objectif de ma communication est de demontraot ce que j'ai appris lors de ma vsite au Muséee Armand-Frappier pour l'exposition !,2,3,4 Santé dont notamment celui du 
 
 # Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)
 
