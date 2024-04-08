@@ -6,6 +6,7 @@ L'objectif de ma communication est de demontré ce que j'ai appris lors de ma vs
 Mon experience: J'ai bien aimé la visite individuelle dont notamment celui de la projection laser faite sur un mur j'ai bien aimé la projection laser parce que il yavais plein d'informations et c'est même bien fait avec les projjection et du papier paint
 
 # Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)
+Les aspects qui seront abordés c'est le type d'exposition et de quoi çca regroupe même chose pour la descrption de l'exposition et de la projection laser, des composantes et techniques et le type d'installation utilisé pour cette exposition
 
 Développement :
 # Informations sur l'oeuvre ou le dispositif multimémia et le lieu d'exposition (Titre, Nom de l'artiste ou de la firme, Année de réalisation, Nom de l'exposition ou de l'événement, Type d'exposition, Lieu de mise en exposition + Infos sur le lieu, Date de votre visite)
@@ -17,7 +18,7 @@ Lieu de mise en exposition
 - Musée Armand-Frappier à Laval
 
 Type d'exposition
-- Temporaire, intérieure, multimédia Vaste installation vidéo immersive à sept canaux
+- Temporaire, intérieure  
 
 Date de ma visite
 - Le Lundi 26 Février 2024
