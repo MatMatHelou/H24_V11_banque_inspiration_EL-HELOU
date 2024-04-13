@@ -40,6 +40,7 @@ JEREMY SHAW
 - La deuxième c’est juste avec un lumière visible plus clair
 - La troisième est un camera infrarouge qui permet de te capter et de voir la chaleur de ton corps
 
+![photo](Media/ecran_multiple.jpg)
 
 # Type d'installation
 
