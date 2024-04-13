@@ -84,17 +84,15 @@ Vidéo prise par Mateo El-Helou durant l'expo
 
 
 # ❤️ Ce qui m'a plu
+- comment je peut me voir avec 3 differentes caméra qui donne trois difféerents effets
+- les type d'effets
+- De pouvoir m'amuser à bouger devant les écrans et de pouvoir regarder les différents effts que les 3 caméra donne sur moi
 
-
-↓ cliquez pour visonner video youtube ↓
-
-
-Vidéo prise par Mateo El-Helou durant l'expo
 
 
 # 🤔 Aspect que je souhaite pas retenir pour mes propres créations ou que je ferez autrement et justifications
 
-
+- la toute première caméra dont c'est une caméra ultraviolet qui transmet l'effet ultraviolet sur l'écran
 
 
 
