@@ -69,18 +69,11 @@ Vidéo prise par Mateo El-Helou durant l'expo
 
 
 
-
-
 # Expérience vécue
 
-
-
-Photo prise par Mateo El-Helou durant l'expo
-
-↓ cliquez pour visonner video youtube ↓
-
-
-Vidéo prise par Mateo El-Helou durant l'expo
+- Vivre l'expérience amusante
+- Observer les different efftes que la caméra te présente sur soi-même
+- effet radiation ultravioet, effet lumière visible et l'effet rayonnement infrarouge
 
 
 # ❤️ Ce qui m'a plu
@@ -91,8 +84,7 @@ Vidéo prise par Mateo El-Helou durant l'expo
 
 
 # 🤔 Aspect que je souhaite pas retenir pour mes propres créations ou que je ferez autrement et justifications
-
-- la toute première caméra dont c'est une caméra ultraviolet qui transmet l'effet ultraviolet sur l'écran
+- Celle de milieu, caméra dont c'est une caméra qui permet de voir avec une lumière visible. Je trouvais que c'était simple pour celui-là
 
 
 
