@@ -49,7 +49,7 @@ JEREMY SHAW
 
 ↓ cliquez pour visonner video youtube ↓
 
-[![video](https://img.youtube.com/vi/Ic0WBa8TNrA/0.jpg)](https://www.youtube.com/watch?v=Ic0WBa8TNrA)
+
 Vidéo prise par Mateo El-Helou durant l'expo
 
 
