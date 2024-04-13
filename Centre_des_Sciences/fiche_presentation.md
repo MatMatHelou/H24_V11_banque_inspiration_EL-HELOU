@@ -43,6 +43,9 @@ JEREMY SHAW
 
 # Type d'installation
 
+- Écrans des boite jaune pour les retenir droits
+- 3 écrans larges
+- Cameras
 
 ↓ cliquez pour visonner video youtube ↓
 
@@ -55,9 +58,11 @@ Vidéo prise par Mateo El-Helou durant l'expo
 
 
 # Composantes et techniques
-
+- 3 écrans
+- 3 différente caméra dont on ne l'on voit pas la même chose sur les 2 écrans
+- Disposition d'une lumièer mauve sur ledessus du premier écran
   
-↓ cliquez pour visonner video youtube ↓
+
 
 
 Vidéo prise par Mateo El-Helou durant l'expo
