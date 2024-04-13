@@ -1,4 +1,5 @@
 # Nom de l'exposition
+Voir l'invisible
 
 ![photo](Medias/1_Nom.jpg)
 
@@ -7,12 +8,10 @@ Photo prise par Mateo El-Helou durant l'expo
 
 # Lieu de mise en exposition
 
-Photo prise par Mateo El-Helou durant l'expo
-
+Centre de Sciences
 
 # Type d'exposition
 Temporaire, intérieure, multimédia
-
 
 
 # Date de ma visite
@@ -20,21 +19,17 @@ Merdredi 10 Avril 2024
 
 
 # Titre de l'oeuvre
-Phase Shifting Index [Index d’états de transition]
-
+Voir l'invisible
 
 
 
 # Nom de l'artiste
-JEREMY SHAW
 
 
 # Année de réalisation
 
 
 # Description de l'oeuvre
-
-
 - 3 Écrans qui te permet de percevoir ce qu’on ne voit pas a l’oeil nu
 - a première est en noir et blanc et qui permet le rayonnement ultra violet et la caméra doit te capter
 - La deuxième c’est juste avec un lumière visible plus clair
