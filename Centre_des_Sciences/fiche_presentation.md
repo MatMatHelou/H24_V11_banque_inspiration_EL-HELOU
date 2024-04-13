@@ -47,10 +47,7 @@ JEREMY SHAW
 - 3 écrans larges
 - Cameras
 
-↓ cliquez pour visonner video youtube ↓
-
-
-Vidéo prise par Mateo El-Helou durant l'expo
+![photo](Media/lumiere_ultraviolet.jpg)
 
 
 # Mise en espace
