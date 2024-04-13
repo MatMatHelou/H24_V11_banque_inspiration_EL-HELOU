@@ -1,7 +1,6 @@
 # Nom de l'exposition
 Humain
 
-![photo](Medias/1_Nom.jpg)
 
 Photo prise par Mateo El-Helou durant l'expo
 
@@ -9,6 +8,8 @@ Photo prise par Mateo El-Helou durant l'expo
 # Lieu de mise en exposition
 
 Centre de Sciences
+
+![photo](Media/entree.jpg)
 
 # Type d'exposition
 Temporaire, intérieure, multimédia
