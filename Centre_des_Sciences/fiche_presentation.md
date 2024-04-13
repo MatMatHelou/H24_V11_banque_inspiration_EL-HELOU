@@ -11,6 +11,8 @@ Centre de Sciences
 
 ![photo](Media/entree.jpg)
 
+photo prise que j'ai pris: https://www.centredessciencesdemontreal.com/exposition-permanente/explore
+
 # Type d'exposition
 Temporaire, intérieure, multimédia
 
