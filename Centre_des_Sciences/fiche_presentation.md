@@ -35,6 +35,11 @@ JEREMY SHAW
 # Description de l'oeuvre
 
 
+- 3 Écrans qui te permet de percevoir ce qu’on ne voit pas a l’oeil nu
+- a première est en noir et blanc et qui permet le rayonnement ultra violet et la caméra doit te capter
+- La deuxième c’est juste avec un lumière visible plus clair
+- La troisième est un camera infrarouge qui permet de te capter et de voir la chaleur de ton corps
+
 
 # Type d'installation
 
