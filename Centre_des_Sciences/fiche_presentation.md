@@ -1,5 +1,5 @@
 # Nom de l'exposition
-Voir l'invisible
+Humain
 
 ![photo](Medias/1_Nom.jpg)
 
