@@ -54,7 +54,7 @@ Vidéo prise par Mateo El-Helou durant l'expo
 
 
 # Mise en espace
-
+![photo](Media/mis_en_espace_3.jpg)
 
 
 # Composantes et techniques
