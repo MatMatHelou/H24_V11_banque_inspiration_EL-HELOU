@@ -60,14 +60,10 @@ Voir l'invisible
   
 
 
-
-Vidéo prise par Mateo El-Helou durant l'expo
-
-
-
 # Éléments nécessaires à la mise en exposition
 
-
+- Structure boîtes solide dans lesquel 3 grands écrans sont placés l'un à côté de l'autre
+- panneaux d'explication
 
 # Expérience vécue
 
