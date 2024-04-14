@@ -28,6 +28,8 @@ Voir l'invisible
 
 # Nom de l'artiste
 
+![photo](Media/réalisateurs.jpg)
+
 
 # Année de réalisation
 8 octobre 2015
@@ -58,7 +60,6 @@ Voir l'invisible
 - 3 différente caméra dont on ne l'on voit pas la même chose sur les 2 écrans
 - Disposition d'une lumièer mauve sur ledessus du premier écran
   
-
 
 # Éléments nécessaires à la mise en exposition
 
