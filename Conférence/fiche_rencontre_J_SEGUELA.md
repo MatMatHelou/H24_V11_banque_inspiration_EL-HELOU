@@ -8,7 +8,7 @@ Pour continuer la conférence, ce sera la description de beaucoup d’œuvres do
 
 # Une des oeuvre:  Translation Stream
  C’est une œuvre qui traduit l’arabe à l’anglais
-
+[![video]([https://img.youtube.com/vi/Ic0WBa8TNrA/0.jpg](https://youtu.be/K4W64RQGb3Y))]([https://www.youtube.com/watch?v=Ic0WBa8TNrA](https://youtu.be/K4W64RQGb3Y))
 
 # Type d'installation pour l'oeuvre : Translation Stream
 - Potos de metal
