@@ -7,7 +7,7 @@ Pour continuer la conférence, ce sera la description de beaucoup d’œuvres do
  Par Mateo El-Helou
 
 # Une des oeuvre:  Translation Stream
- C’est une œuvre qui traduit l’arabe a l’anglais
+ C’est une œuvre qui traduit l’arabe à l’anglais
 
 
 # Type d'installation pour l'oeuvre : Translation Stream
