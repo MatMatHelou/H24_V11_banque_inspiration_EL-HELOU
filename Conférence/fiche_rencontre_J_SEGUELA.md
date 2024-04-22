@@ -1,4 +1,4 @@
-# texte écrit Conférence
+# Texte écrit Conférence
 
 Quelle bonne conférence pour une personne comme Jade Séguéla de présenter son travail dans le domaine à elle. Si vous n’avez va vus la conférence, que vous ne savez pas de quoi ça parle, ce texte pourra vous aider à bien comprendre le travail que fait Jade. Le contenu de cette conférence sera de qui est Jade Séguéla et de quoi elle va nous parler.
  Pour commencer, qui est Jade Séguéla? Elle est une personne qui est registraire, Elle fait parti de l’équipe de Rafael Lozano-Hemmer, un artiste en art. Elle va nous présent, la logistique de gestion de collection de mise en collection de la production de Rafael Lozano-Hemmer. Elle fait l’emballage des œuvres, la documentation des œuvres, le constat d’état. Par exemple de réparer et essaye que l’œuvre ne se brise pas et bien sur de voir dans quel état est l’œuvre après l’envoi. 
