@@ -3,22 +3,22 @@ Le projet que j'ai aimé, adoré et qui me passione c'est le je projet Kigo
  # Projet Kigo
 
 1.
-- Ramasser les X et éviter les rectangle (obstacles)
-- Vitesse aiment à chaque fois rapidement
-- Plus vitesse plus difficulté par aléatoire
+- Ramasser les X et éviter les rectangles (obstacles)
+- Vitesse augmente rapidement à chaque fois
+- Plus de vitesse ammène plus de difficulté, mais aléatoirement
 - Modélisation 3D
 - Peut se jouer à deux
-- Kinect scan ton squelette qui permet que quand tu bouge dans l’écran tu bouge
-- Programmer avec Unity
-- Nouvelle mis de jeu/ nouveau background, personne sur une plateforme dans le jeu, des points (+25, +50, +75 et +100 points) ce qui augmente to score
-- À la fin du jeux il y’a une barre de tout les score et avec ton score
+- Kinect scan ton squelette ce qui permet que tu bouges sur l’écran
+- Programmé avec Unity
+- Durant la deuxième visite, j'ai remqrqué que la mise en jeu avait un nouveau background et une plateforme sur laquelle on se met debout dans le jeu
+- Les créateurs ont ajouté aussi des points (+25, +50, +75 et +100 points) pour marquer un score - à la fin du jeu il y’a une barre qui marque tous les scores
 
 
 # justification (avant/après l'expérimentation
 
-- Ce que j'ai aimé dans cette oeuvre avant c'tait l'arrière-plan du jeu et mais il y avais pas beaucoup de décoration dans l'arrière-plan
-- Plus vitesse plus difficulté par aléatoire c'est ce qui rend le jeu plus interessant 
-- À la fois, c'est un jeu dont l'utilisation de la Kinnect alrs c'e quee j'aime aussi car il y a de l'action
+- Ce que j'ai aimé dans cette oeuvre avant c'était l'arrière-plan du jeu mais il y avait pas beaucoup de décoration
+- La vitesse qui augmente de façon aléatoire, ce qui rend le jeu plus interessant 
+- À la fois, c'est un jeu dont l'utilisation de la Kinnect alors cela apporte beaucoup d'action
 
 
 ↓ Photo durant ma première visite ↓
