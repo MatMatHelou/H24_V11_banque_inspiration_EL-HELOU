@@ -1,4 +1,4 @@
-Le projet que j'ai aimée, adoré et qui me passione c'est le je projet Kigo
+Le projet que j'ai aimé, adoré et qui me passione c'est le je projet Kigo
 
  # Projet Kigo
 
@@ -7,8 +7,8 @@ Le projet que j'ai aimée, adoré et qui me passione c'est le je projet Kigo
 - Vitesse aiment à chaque fois rapidement
 - Plus vitesse plus difficulté par aléatoire
 - Modélisation 3D
-- Peut jouer à deux
-- Kinect scan to squelette qui permet que quand tu bouge dans l’écran tu bouge
+- Peut se jouer à deux
+- Kinect scan ton squelette qui permet que quand tu bouge dans l’écran tu bouge
 - Programmer avec Unity
 - Nouvelle mis de jeu/ nouveau background, personne sur une plateforme dans le jeu, des points (+25, +50, +75 et +100 points) ce qui augmente to score
 - À la fin du jeux il y’a une barre de tout les score et avec ton score
