@@ -32,8 +32,7 @@
 
 
 5. Titre de l'oeuvre
-- 1, 2, 3, 4 Santé
-
+-Projection Laser
 
 6. Nom de l'artiste
 - Armand Frappier
@@ -48,7 +47,8 @@ Le type d'installation répondait bien avec l'oeuvre multimédia dont:
 - les projections
 - les projecteurs et les quelques activités interactifs comme regarder un video explicative sur le sujet ou just des oeuvres interactif dans l'exposition
   la description:
-- projection du sujet qui montre sur le mur les explivation des informations qui sont écrite en lien avec la projection laser.
+- projection du sujet qui montre sur le mur les explivation des informations qui sont écritent en lien avec la projection laser.
+- Le cycle de vie 
   
 9. Type d'installation
 - écouteurs
