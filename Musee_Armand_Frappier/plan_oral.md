@@ -18,23 +18,30 @@
 1. Nom de l'exposition
 - 1, 2, 3, 4 Santé
 
+
 2. Lieu de mise en exposition
 - Musée Armand-Frappier à Laval
+
 
 3. Type d'exposition
 - Temporaire, intérieure  
 
+
 4. Date de ma visite
 - Le Lundi 26 Février 2024
+
 
 5. Titre de l'oeuvre
 - 1, 2, 3, 4 Santé
 
+
 6. Nom de l'artiste
 ⁃ Armand Frappier
 
+
 7. Année de réalisation
 - Du 31 janvier 2023
+
 
 8. Présentation détaillée de l'oeuvre ou du dispositif multimédia (description, type d'installation, fonction, mise en espace, composantes, éléments)
 Le type d'installation répondait bien avec l'oeuvre multimédia dont:
