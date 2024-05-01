@@ -36,7 +36,7 @@
 
 
 6. Nom de l'artiste
-⁃ Armand Frappier
+- Armand Frappier
 
 
 7. Année de réalisation
