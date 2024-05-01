@@ -48,7 +48,8 @@ Le type d'installation répondait bien avec l'oeuvre multimédia dont:
 - les projecteurs et les quelques activités interactifs comme regarder un video explicative sur le sujet ou just des oeuvres interactif dans l'exposition
   la description:
 - projection du sujet qui montre sur le mur les explivation des informations qui sont écritent en lien avec la projection laser.
-- Le cycle de vie 
+- Le cycle de vie de quelques éléments de la vie de tout les jours:
+- des informatio sur l'eau, sur les voitures sur l gaspillage des electronics, qu'il faut manger moin de viande etc.
   
 9. Type d'installation
 - écouteurs
@@ -85,4 +86,5 @@ Les lien:
 - Composantes et techniques
  
  2. Ouverture : élément inspirant retenu parmi toutes les oeuvres, dispositfs et expériences de la session
- Les éléments inspirants que j'ai retenus c'est dans la projection laserl'information du de planter des arbres, fleurs et plantes même surtout de manger moins de viande.
+ - Les éléments inspirants que j'ai retenus c'est dans la projection laserl'information du de planter des arbres, fleurs et plantes même surtout de manger moins de viande.
+ - Cétait pas mal similaire a une expositionque je sui allé voir notamment l'exposition avec une oeuvres multimédia similaire dont c'est à la fois informatif et interactif.
